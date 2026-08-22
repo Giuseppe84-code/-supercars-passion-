@@ -16,3 +16,463 @@
   for = "/img/*"
   [headers.values]
     Cache-Control = "public, max-age=604800"
+
+# Redirects for the WordPress permalinks this site was migrated from.
+#
+# Articles are served at /articles/:slug/, but the imported prose still links
+# to the old dated scheme (/2026/03/01/ferrari-history/) and to bare slugs
+# (/ferrari-history/). All 418 of those links returned 404.
+#
+# Redirecting rather than rewriting the prose keeps the articles untouched and
+# also rescues inbound links and search results still pointing at the old
+# permalinks, which editing the Markdown would not.
+#
+# Explicit rules come first because Netlify takes the first match; the catch-all
+# at the end handles old URLs nothing here links to.
+
+[[redirects]]
+  from = "/2026/01/14/bugatti-chiron-aerospace-engineering"
+  to = "/articles/why-the-bugatti-chiron-is-closer-to-aerospace-than-to-automotive-engineering/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/14/f1-technology-in-hypercars"
+  to = "/articles/how-f1-technology-migrates-into-road-hypercars/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/14/ferrari-f40"
+  to = "/articles/ferrari-f40-the-last-analog-supercar/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/14/ferrari-f50"
+  to = "/articles/ferrari-f50-formula-1-for-the-road/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/14/porsche-911-gt3-rs"
+  to = "/articles/porsche-911-gt3-rs-when-precision-becomes-performance/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/bugatti-divo"
+  to = "/articles/bugatti-divo-the-art-of-cornering-at-400-km-h/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/ferrari-488-pista"
+  to = "/articles/ferrari-488-pista-when-ferrari-turned-a-supercar-into-a-weapon/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/ferrari-p80c"
+  to = "/articles/ferrari-p80-c-the-last-true-one-off/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/ferrari-sf90-stradale"
+  to = "/articles/ferrari-sf90-stradale-when-hybrid-becomes-hypercar/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/laferrari-hybrid-hypercar"
+  to = "/articles/ferrari-laferrari-the-hypercar-that-redefined-ferrari-itself/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/lamborghini-aventador-svj"
+  to = "/articles/lamborghini-aventador-svj-when-brutality-learned-discipline/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/lamborghini-huracan-performante"
+  to = "/articles/lamborghini-huracan-performante-the-day-lamborghini-learned-to-think-in-air/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/mclaren-senna"
+  to = "/articles/mclaren-senna-in-the-name-of-ayrton/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/porsche-911-gt2-rs"
+  to = "/articles/porsche-911-gt2-rs-the-most-extreme-interpretation-of-the-911-philosophy/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/15/porsche-911-turbo"
+  to = "/articles/porsche-911-turbo-the-quiet-master-of-speed/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/16/mclaren-600lt"
+  to = "/articles/858/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/16/porsche-911-gt2-rs"
+  to = "/articles/porsche-911-gt2-rs-the-most-extreme-interpretation-of-the-911-philosophy/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/01/17/ferrari-enzo"
+  to = "/articles/ferrari-enzo-when-formula-1-technology-became-a-road-car/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/active-aerodynamics-explained"
+  to = "/articles/active-aerodynamics-when-the-car-takes-off-in-reverse/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/daily-drivable-supercars"
+  to = "/articles/supercar-daily-driver-dream-or-reality/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/fastest-cars-top-speed-record"
+  to = "/articles/the-500-km-h-club-bugatti-vs-hennessey-vs-ssc/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/ferrari-vs-lamborghini"
+  to = "/articles/ferrari-vs-lamborghini-the-origin-of-a-myth/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/ford-gt-history"
+  to = "/articles/ford-gt-the-full-story-from-the-gt40-mission-to-todays-track-only-mk-iv/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/gordon-murray-t50"
+  to = "/articles/gordon-murray-t-50-the-fan-car-that-brought-manuals-back-to-heaven/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/hypercar-holy-trinity"
+  to = "/articles/the-hypercar-holy-trinity-10-years-later/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/hypercar-materials-technology"
+  to = "/articles/carbon-fiber-titanium-and-beyond-the-material-science-of-hypercars/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/mclaren-p1"
+  to = "/articles/mclaren-p1-the-hybrid-hypercar-that-turned-instant-torque-active-aero-into-a-new-definition-of-fast/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/mclaren-speedtail"
+  to = "/articles/mclaren-speedtail-2019-the-hyper-gt-that-chased-250-mph-with-science-not-spoilers/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/nissan-gtr-vs-porsche-911-turbo"
+  to = "/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/nurburgring-lap-times-explained"
+  to = "/articles/why-the-nurburgring-is-every-automakers-obsession/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/pagani-vs-koenigsegg"
+  to = "/articles/pagani-and-koenigsegg-the-artisans-who-challenged-the-giants/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/porsche-918-spyder"
+  to = "/articles/porsche-918-spyder-the-hybrid-hypercar-that-turned-traction-into-a-superpower/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/porsche-carrera-gt"
+  to = "/articles/porsche-carrera-gt/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/02/12/supercar-investment-guide"
+  to = "/articles/supercars-as-investments-which-models-to-buy-today/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/bugatti-history"
+  to = "/articles/bugatti-history/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/bugatti-tourbillon"
+  to = "/articles/bugatti-tourbillon/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/dallara-stradale"
+  to = "/articles/dallara-stradale/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/ferrari-f80"
+  to = "/articles/ferrari-f80/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/ferrari-history"
+  to = "/articles/ferrari-history/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/ferrari-sf90-xx-stradale"
+  to = "/articles/ferrari-sf90-xx-stradale/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/koenigsegg-jesko-absolut"
+  to = "/articles/koenigsegg-jesko-absolut/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/lamborghini-history"
+  to = "/articles/lamborghini-history/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/lamborghini-miura"
+  to = "/articles/lamborghini-miura/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/lamborghini-revuelto"
+  to = "/articles/lamborghini-revuelto/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/mclaren-history"
+  to = "/articles/mclaren-history/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/mclaren-w1"
+  to = "/articles/mclaren-w1/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/01/porsche-history"
+  to = "/articles/porsche-history/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/02/porsche-911-vs-bmw-m4"
+  to = "/articles/porsche-911-vs-bmw-m4/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/03/bugatti-chiron-super-sport-300"
+  to = "/articles/bugatti-chiron-super-sport-300/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/03/laferrari-aperta"
+  to = "/articles/laferrari-aperta/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/03/lamborghini-sian"
+  to = "/articles/lamborghini-sian/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/03/lamborghini-veneno"
+  to = "/articles/lamborghini-veneno/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/22/ferrari-amalfi-spider"
+  to = "/articles/ferrari-amalfi-spider/"
+  status = 301
+
+[[redirects]]
+  from = "/2026/03/22/porsche-911-turbo-s-hybrid-2026"
+  to = "/articles/porsche-911-turbo-s-hybrid-2026/"
+  status = 301
+
+[[redirects]]
+  from = "/active-aerodynamics-explained"
+  to = "/articles/active-aerodynamics-when-the-car-takes-off-in-reverse/"
+  status = 301
+
+[[redirects]]
+  from = "/aston-martin-history"
+  to = "/articles/aston-martin-history/"
+  status = 301
+
+[[redirects]]
+  from = "/best-first-sports-car-2026"
+  to = "/articles/best-first-sports-car/"
+  status = 301
+
+[[redirects]]
+  from = "/best-used-sports-cars-under-30k"
+  to = "/articles/best-used-sports-cars-under-30k/"
+  status = 301
+
+[[redirects]]
+  from = "/bugatti-chiron-aerospace"
+  to = "/articles/why-the-bugatti-chiron-is-closer-to-aerospace-than-to-automotive-engineering/"
+  status = 301
+
+[[redirects]]
+  from = "/bugatti-chiron-super-sport-300"
+  to = "/articles/bugatti-chiron-super-sport-300/"
+  status = 301
+
+[[redirects]]
+  from = "/bugatti-history"
+  to = "/articles/bugatti-history/"
+  status = 301
+
+[[redirects]]
+  from = "/bugatti-tourbillon"
+  to = "/articles/bugatti-tourbillon/"
+  status = 301
+
+[[redirects]]
+  from = "/dodge-viper-anti-supercar"
+  to = "/articles/dodge-viper-when-excess-became-engineering/"
+  status = 301
+
+[[redirects]]
+  from = "/ferrari-488-pista"
+  to = "/articles/ferrari-488-pista-when-ferrari-turned-a-supercar-into-a-weapon/"
+  status = 301
+
+[[redirects]]
+  from = "/ferrari-history"
+  to = "/articles/ferrari-history/"
+  status = 301
+
+[[redirects]]
+  from = "/first-track-day-guide"
+  to = "/articles/first-track-day-guide/"
+  status = 301
+
+[[redirects]]
+  from = "/hypercar-materials-technology"
+  to = "/articles/carbon-fiber-titanium-and-beyond-the-material-science-of-hypercars/"
+  status = 301
+
+[[redirects]]
+  from = "/jdm-vs-muscle-cars"
+  to = "/articles/jdm-vs-muscle-cars-two-worlds-one-addiction/"
+  status = 301
+
+[[redirects]]
+  from = "/lamborghini-aventador-svj"
+  to = "/articles/lamborghini-aventador-svj-when-brutality-learned-discipline/"
+  status = 301
+
+[[redirects]]
+  from = "/lamborghini-history"
+  to = "/articles/lamborghini-history/"
+  status = 301
+
+[[redirects]]
+  from = "/lamborghini-huracan-performante"
+  to = "/articles/lamborghini-huracan-performante-the-day-lamborghini-learned-to-think-in-air/"
+  status = 301
+
+[[redirects]]
+  from = "/lamborghini-sian"
+  to = "/articles/lamborghini-sian/"
+  status = 301
+
+[[redirects]]
+  from = "/lamborghini-veneno"
+  to = "/articles/lamborghini-veneno/"
+  status = 301
+
+[[redirects]]
+  from = "/legends-90s-jdm-performance-cars"
+  to = "/articles/beyond-godzilla-the-other-titans-of-the-jdm-golden-age/"
+  status = 301
+
+[[redirects]]
+  from = "/lotus-evija-electric-hypercar"
+  to = "/articles/lotus-evija-the-carved-by-air-electric-hypercar-that-made-2000-horsepower-feel-like-a-design-problem/"
+  status = 301
+
+[[redirects]]
+  from = "/mclaren-600lt"
+  to = "/articles/858/"
+  status = 301
+
+[[redirects]]
+  from = "/most-underrated-sports-cars-2026"
+  to = "/articles/underrated-sports-cars/"
+  status = 301
+
+[[redirects]]
+  from = "/nissan-gtr-r36-successor"
+  to = "/articles/is-the-future-electric-rumors-and-truths-about-the-nissan-r36-gt-r/"
+  status = 301
+
+[[redirects]]
+  from = "/nissan-skyline-complete-history"
+  to = "/articles/nissan-skyline-history/"
+  status = 301
+
+[[redirects]]
+  from = "/nurburgring-supercar-history"
+  to = "/articles/why-the-nurburgring-is-every-automakers-obsession/"
+  status = 301
+
+[[redirects]]
+  from = "/porsche-911-gt3-rs"
+  to = "/articles/porsche-911-gt3-rs-when-precision-becomes-performance/"
+  status = 301
+
+[[redirects]]
+  from = "/porsche-911-turbo"
+  to = "/articles/porsche-911-turbo-the-quiet-master-of-speed/"
+  status = 301
+
+[[redirects]]
+  from = "/porsche-carrera-gt"
+  to = "/articles/porsche-carrera-gt/"
+  status = 301
+
+[[redirects]]
+  from = "/porsche-history"
+  to = "/articles/porsche-history/"
+  status = 301
+
+[[redirects]]
+  from = "/supercar-ownership-costs"
+  to = "/articles/supercar-ownership-costs/"
+  status = 301
+
+[[redirects]]
+  from = "/top-10-sports-cars-2026"
+  to = "/articles/best-sports-cars-2026/"
+  status = 301
+
+[[redirects]]
+  from = "/top-3-daily-drivable-supercars"
+  to = "/articles/supercar-daily-driver-dream-or-reality/"
+  status = 301
+
+[[redirects]]
+  from = "/top-5-future-car-collectibles"
+  to = "/articles/supercars-as-investments-which-models-to-buy-today/"
+  status = 301
+
+# Any other dated permalink whose slug still exists as an article. Last,
+# so the explicit rules above win where a slug was renamed.
+[[redirects]]
+  from = "/:year/:month/:day/*"
+  to = "/articles/:splat"
+  status = 301
