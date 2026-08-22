@@ -5,7 +5,7 @@ marque: "Engineering & Technology"
 kicker: "Future of Performance"
 published: 2026-02-12
 image: "/img/amg-one.jpg"
-imageAlt: "Mercedes-AMG ONE"
+imageAlt: "The silver Mercedes-AMG ONE on its show stand, dihedral doors raised, seen from the front three-quarter"
 imageCredit: "Alexander-93"
 imageLicense: "CC BY-SA 4.0"
 imageNote: "AMG ONE, IAA 2023"
