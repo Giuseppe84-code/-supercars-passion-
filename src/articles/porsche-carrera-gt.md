@@ -1,6 +1,6 @@
 ---
 title: "Porsche Carrera GT: An Analog Supercar Masterpiece"
-lede: "Some supercars impress you with numbers. The Porsche Carrera GT impresses you with engineering intent. It is a road car built with motorsport logic and wrapped in carbon fiber/2026/02/12/hypercar-materials-technology/."
+lede: "Some supercars impress you with numbers. The Porsche Carrera GT impresses you with engineering intent. It is a road car built with motorsport logic and wrapped in carbon fiber."
 marque: "Legends"
 kicker: "Supercars"
 published: 2026-02-12

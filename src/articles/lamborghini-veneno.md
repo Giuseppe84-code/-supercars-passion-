@@ -1,6 +1,6 @@
 ---
 title: "Lamborghini Veneno — The $4.5 Million Car That Only 9 People on Earth Own"
-lede: "--- Built to Celebrate 50 Years of Lamborghini/2026/03/01/lamborghini-history/. Brutal, Extreme, and Completely Uncompromising. --- In 2013, Lamborghini turned 50 years old."
+lede: "--- Built to Celebrate 50 Years of Lamborghini. Brutal, Extreme, and Completely Uncompromising. --- In 2013, Lamborghini turned 50 years old."
 marque: "Hypercars"
 kicker: "lamborghini"
 published: 2026-03-03

@@ -1,6 +1,6 @@
 ---
 title: "Lamborghini Revuelto: The V12 Hybrid Supercar That Changes Everything"
-lede: "The Lamborghini Revuelto is not simply a replacement for the legendary Aventador/2026/01/15/lamborghini-aventador-svj/ — it is a complete reinvention of what a Lamborghini/2026/03/01/lamborghini-history/ V12 flagship can be."
+lede: "The Lamborghini Revuelto is not simply a replacement for the legendary Aventador — it is a complete reinvention of what a Lamborghini V12 flagship can be."
 marque: "Design & Philosophy"
 kicker: "Supercars"
 published: 2026-03-01

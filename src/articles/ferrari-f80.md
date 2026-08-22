@@ -1,6 +1,6 @@
 ---
 title: "Ferrari F80: The Most Powerful Ferrari Ever Built"
-lede: "The Ferrari F80 is the most powerful, most technologically advanced, and most expensive road car Ferrari/2026/03/01/ferrari-history/ has ever produced."
+lede: "The Ferrari F80 is the most powerful, most technologically advanced, and most expensive road car Ferrari has ever produced."
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-03-01

@@ -1,6 +1,6 @@
 ---
 title: "Ferrari SF90 XX Stradale: The Most Extreme Road-Legal Ferrari Ever Built"
-lede: "The Ferrari/2026/03/01/ferrari-history/ SF90 XX Stradale is not just a car — it is a statement. A declaration that Ferrari has pushed its hybrid hypercar technology beyond anything it has ever produced for the public road."
+lede: "The Ferrari SF90 XX Stradale is not just a car — it is a statement. A declaration that Ferrari has pushed its hybrid hypercar technology beyond anything it has ever produced for the public road."
 marque: "Supercars"
 kicker: "1000hp Car"
 published: 2026-03-01

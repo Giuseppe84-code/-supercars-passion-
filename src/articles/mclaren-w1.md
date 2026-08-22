@@ -1,6 +1,6 @@
 ---
 title: "McLaren W1: The 1,275 HP Hypercar That Carries the Legacy of the F1 and P1"
-lede: "The McLaren W1 is not just a new hypercar. It is the third chapter in the most exclusive and storied lineage in supercar history — a direct successor to the McLaren F1 and McLaren P1/2026/02/12/mclaren-p1/, and the most powerful, …"
+lede: "The McLaren W1 is not just a new hypercar. It is the third chapter in the most exclusive and storied lineage in supercar history — a direct successor to the McLaren F1 and McLaren P1, and the most powerful, …"
 marque: "Legends"
 kicker: "1000hp Car"
 published: 2026-03-01
