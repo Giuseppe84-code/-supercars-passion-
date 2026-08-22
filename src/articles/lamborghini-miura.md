@@ -4,6 +4,11 @@ lede: "Before the Lamborghini Miura, there were fast cars. After the Miura, ther
 marque: "lamborghini"
 kicker: "Legends"
 published: 2026-03-01
+image: "/img/miura.jpg"
+imageAlt: "Lamborghini Miura P400 S"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Miura P400 S, 1970"
 tags: ["1966 supercar", "Bertone", "classic supercar", "Ferruccio Lamborghini", "Gian Paolo Dallara", "Italian Job car"]
 legacySlug: "lamborghini-miura"
 draft: false

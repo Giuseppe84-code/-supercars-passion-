@@ -4,6 +4,11 @@ lede: "The Rimac Nevera isn’t “fast for an EV.” It’s fast, full stop—a
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-02-12
+image: "/img/nevera.jpg"
+imageAlt: "Rimac Nevera"
+imageCredit: "MrWalkr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Nevera"
 tags: ["0-100 1.81s", "0-400-0", "120 kWh Battery", "1408 kW", "1914 hp", "2340 Nm"]
 legacySlug: "rimac-nevera-the-electric-hypercar-that-rewrote-the-physics-textbook"
 draft: false

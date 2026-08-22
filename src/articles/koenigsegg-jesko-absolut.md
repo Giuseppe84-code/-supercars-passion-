@@ -4,6 +4,11 @@ lede: "There are fast cars. There are hypercars. And then there is the Koenigseg
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-03-01
+image: "/img/jesko.jpg"
+imageAlt: "Koenigsegg Jesko"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Jesko — the Absolut is a variant of this car"
 tags: ["1600hp Car", "christian von koenigsegg", "Fastest Car World", "Hypercar 2024", "Hypercar Engine", "Jesko Attack"]
 legacySlug: "koenigsegg-jesko-absolut"
 draft: false

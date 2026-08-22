@@ -4,6 +4,11 @@ lede: "Introduction — When Racing Became Road Legal The Ferrari F50 is often m
 marque: "Legends"
 kicker: "analog driving"
 published: 2026-01-14
+image: "/img/ferrari-f50.jpg"
+imageAlt: "Ferrari F50"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "F50, 1999"
 tags: ["analog driving", "automotive history", "carbon fiber monocoque", "classic supercars", "ferrari", "ferrari f50"]
 legacySlug: "ferrari-f50-formula-1-for-the-road"
 draft: false

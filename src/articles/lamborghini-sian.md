@@ -4,6 +4,11 @@ lede: "63 Cars. A Supercapacitor Instead of a Battery. And the Last Naturally As
 marque: "Hypercars"
 kicker: "lamborghini"
 published: 2026-03-03
+image: "/img/sian.jpg"
+imageAlt: "Lamborghini Sián FKP 37"
+imageCredit: "John Bauld"
+imageLicense: "Public domain"
+imageNote: "Sián FKP 37"
 tags: ["808hp Lamborghini", "Ferdinand Piëch Lamborghini", "first hybrid Lamborghini", "Lamborghini Countach design", "Lamborghini hypercar 2026", "Lamborghini limited edition"]
 legacySlug: "lamborghini-sian"
 draft: false

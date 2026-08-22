@@ -4,6 +4,11 @@ lede: "Introduction — When Porsche Removed the Safety Net The Porsche 911 has 
 marque: "Supercars"
 kicker: "extreme performance"
 published: 2026-01-16
+image: "/img/gt2-rs.jpg"
+imageAlt: "Porsche 911 GT2 RS"
+imageCredit: "Matti Blume"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "911 GT2 RS, Frankfurt 2017"
 tags: ["extreme performance", "gt2 rs", "lightweight engineering", "modern supercars", "nurburgring record", "performance icons"]
 legacySlug: "porsche-911-gt2-rs-the-most-extreme-interpretation-of-the-911-philosophy"
 draft: false

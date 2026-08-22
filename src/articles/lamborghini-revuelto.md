@@ -4,6 +4,11 @@ lede: "The Lamborghini Revuelto is not simply a replacement for the legendary Av
 marque: "Design & Philosophy"
 kicker: "Supercars"
 published: 2026-03-01
+image: "/img/revuelto.jpg"
+imageAlt: "Lamborghini Revuelto"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Revuelto, 2024"
 tags: ["1000hp Car", "AWD Supercar", "Best Supercars 2024", "Car Enthusiast", "Exotic Cars", "Hybrid Supercar"]
 legacySlug: "lamborghini-revuelto"
 draft: false

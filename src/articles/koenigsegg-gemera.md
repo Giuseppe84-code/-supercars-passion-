@@ -4,6 +4,11 @@ lede: "--- Four Seats. Four Doors. 1,700 Horsepower. Zero Emissions Capability. 
 marque: "Hypercars"
 kicker: "koenigsegg"
 published: 2026-03-03
+image: "/img/gemera.jpg"
+imageAlt: "Koenigsegg Gemera"
+imageCredit: "Thomas Vogt"
+imageLicense: "CC BY 2.0"
+imageNote: "Gemera"
 tags: ["1700hp car", "christian von koenigsegg", "E85 hypercar", "electric hypercar", "fastest four seat car", "four door hypercar"]
 legacySlug: "koenigsegg-gemera"
 draft: false

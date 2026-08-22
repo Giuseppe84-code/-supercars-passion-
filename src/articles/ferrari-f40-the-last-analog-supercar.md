@@ -4,6 +4,11 @@ lede: "Introduction — When Speed Was Still Mechanical The Ferrari F40 is not j
 marque: "Legends"
 kicker: "analog supercar"
 published: 2026-01-14
+image: "/img/ferrari-f40.jpg"
+imageAlt: "Ferrari F40"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "F40, 1991"
 tags: ["analog supercar", "automotive history", "car culture", "classic supercars", "ferrari", "ferrari f40"]
 legacySlug: "ferrari-f40-the-last-analog-supercar"
 draft: false

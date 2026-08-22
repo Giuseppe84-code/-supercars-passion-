@@ -4,6 +4,11 @@ lede: "Introduction — A Different Kind of Bugatti Bugatti is traditionally ass
 marque: "Hypercars"
 kicker: "automotive aerodynamics"
 published: 2026-01-15
+image: "/img/divo.jpg"
+imageAlt: "Bugatti Divo"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Divo, 2020"
 tags: ["automotive aerodynamics", "bugatti", "bugatti divo", "cornering performance", "future of hypercars", "high downforce"]
 legacySlug: "bugatti-divo-the-art-of-cornering-at-400-km-h"
 draft: false

@@ -4,6 +4,11 @@ lede: "There are hypercars that feel like a “bigger engine” solution—and t
 marque: "Hypercars"
 kicker: "918 Spyder"
 published: 2026-02-12
+image: "/img/porsche-918.jpg"
+imageAlt: "Porsche 918 Spyder"
+imageCredit: "Chelsea Jay"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "918 Spyder, 2015"
 tags: ["918 Spyder", "automotive", "AWD", "cars", "classic-cars", "hypercar"]
 legacySlug: "porsche-918-spyder-the-hybrid-hypercar-that-turned-traction-into-a-superpower"
 draft: false

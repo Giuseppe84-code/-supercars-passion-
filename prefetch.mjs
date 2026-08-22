@@ -8,9 +8,31 @@ const UA_WEB =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36';
 
 const IMAGES = [
-  ['bolide.jpg',  '2024 Bugatti Bolide 3.jpg', 1600],
-  ['ford-gt.jpg', "Ford Chip Ganassi Racing's Ford GT GTE at the 2019 Petit Le Mans.jpg", 1000],
-  ['huayra.jpg',  'Pagani Huayra BC Roadster, BAS 24, Brussels (P1170491-RR).jpg', 1000],
+  ['bolide.jpg',        '2024 Bugatti Bolide 3.jpg', 1600],
+  ['ford-gt.jpg',       "Ford Chip Ganassi Racing's Ford GT GTE at the 2019 Petit Le Mans.jpg", 1000],
+  ['huayra.jpg',        'Pagani Huayra BC Roadster, BAS 24, Brussels (P1170491-RR).jpg', 1000],
+
+  // Article heroes. The frame is 1600x800, so these are picked wide.
+  ['ferrari-f40.jpg',   '1991 Ferrari F40 3.jpg', 1600],
+  ['ferrari-f50.jpg',   '1999 Ferrari F50 2.jpg', 1600],
+  ['ferrari-enzo.jpg',  '2003 Ferrari Enzo 6.0.jpg', 1600],
+  ['laferrari.jpg',     '2014 Laferrari 4.jpg', 1600],
+  ['carrera-gt.jpg',    'Porsche Carrera GT (32820).jpg', 1600],
+  ['porsche-918.jpg',   '2015 Porsche 918 Spyder 4.6.jpg', 1600],
+  ['gt3-rs.jpg',        'Porsche 911 GT3 RS, GIMS 2018, Le Grand-Saconnex (1X7A0052).jpg', 1600],
+  ['gt2-rs.jpg',        'Porsche GT2 RS, IAA 2017, Frankfurt (1Y7A2769).jpg', 1600],
+  ['miura.jpg',         '1970 Lamborghini Miura P400 S 2.jpg', 1600],
+  ['veneno.jpg',        'Lamborghini Veneno (11225271396).jpg', 1600],
+  ['sian.jpg',          'Lamborghini Sián FKP 37 (52693496494).jpg', 1600],
+  ['revuelto.jpg',      '2024 Lamborghini Revuelto 26.jpg', 1600],
+  ['mclaren-senna.jpg', 'McLaren Senna prototype 4.jpg', 1600],
+  ['divo.jpg',          '2020 Bugatti Divo 2.jpg', 1600],
+  ['jesko.jpg',         'Koenigsegg Jesko 14.jpg', 1600],
+  ['gemera.jpg',        'Koenigsegg Gemera (52561200208).jpg', 1600],
+  ['utopia.jpg',        'Pagani Utopia 7.jpg', 1600],
+  ['nevera.jpg',        'Rimac Nevera.jpg', 1600],
+  ['amg-one.jpg',       'Mercedes-AMG Project One, Frankfurt (1Y7A3446).jpg', 1600],
+  ['viper.jpg',         'Dodge Viper 4.jpg', 1600],
 ];
 
 const FONT_CSS =

@@ -4,6 +4,11 @@ lede: "Introduction — Engineering Without Drama The Porsche 911 GT3 RS does no
 marque: "Engineering & Technology"
 kicker: "Supercars"
 published: 2026-01-14
+image: "/img/gt3-rs.jpg"
+imageAlt: "Porsche 911 GT3 RS"
+imageCredit: "Matti Blume"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "911 GT3 RS, Geneva 2018"
 tags: ["automotive aerodynamics", "car culture", "flat six engine", "motorsport technology", "naturally aspirated engine", "performance engineering"]
 legacySlug: "porsche-911-gt3-rs-when-precision-becomes-performance"
 draft: false
