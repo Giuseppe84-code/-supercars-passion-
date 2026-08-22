@@ -1,0 +1,24 @@
+# The Wire is built from live RSS feeds, so the site is only as fresh as its
+# last build. This triggers a rebuild on a schedule via a Netlify build hook.
+#
+# Setup: Netlify → Site configuration → Build & deploy → Build hooks →
+# "Add build hook", then save the URL as a repository secret NETLIFY_BUILD_HOOK.
+name: Refresh The Wire
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every six hours, UTC
+  workflow_dispatch:         # and on demand from the Actions tab
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify build
+        run: |
+          if [ -z "${{ secrets.NETLIFY_BUILD_HOOK }}" ]; then
+            echo "NETLIFY_BUILD_HOOK is not set — add it in repository secrets."
+            exit 1
+          fi
+          curl -fsS -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK }}"
+          echo "Rebuild requested."

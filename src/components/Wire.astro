@@ -1,0 +1,24 @@
+---
+import { getWire, ago } from '../lib/wire.js';
+
+const items = await getWire(12);
+const now = Date.now();
+---
+<div class="col-head">
+  <h2>The Wire</h2>
+  <div class="note"><span class="pulse"></span> Auto &middot; 30 min</div>
+</div>
+
+<div class="wire">
+  {items.map((item) => (
+    <a href={item.link} target="_blank" rel="noopener nofollow">
+      <div class="meta">
+        <span class="src">{item.source}</span>
+        <span class="dot"></span>
+        <span>{ago(item.date, now)}</span>
+      </div>
+      <h4>{item.title}</h4>
+    </a>
+  ))}
+  {items.length === 0 && <p style="color:var(--muted);font-size:.9rem">The wire is quiet. Check back shortly.</p>}
+</div>

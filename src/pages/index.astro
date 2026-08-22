@@ -1,0 +1,88 @@
+---
+import Base from '../layouts/Base.astro';
+import Wire from '../components/Wire.astro';
+
+import { getPosts } from '../lib/posts.js';
+
+const posts = getPosts();
+const lead = posts.find((p) => p.featured) ?? posts[0];
+// The homepage shows a window onto the archive, not the whole thing.
+const rest = posts.filter((p) => p.slug !== lead.slug).slice(0, 6);
+
+const fmt = (d) =>
+  new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Supercars Passion',
+  url: 'https://supercarspassion.com',
+  description: 'Hypercars, coachbuilt one-offs and endurance racing.',
+};
+---
+<Base
+  title="Supercars Passion — hypercars, coachbuilt, endurance"
+  description="Original reporting on hypercars, coachbuilt one-offs and endurance racing, plus a live wire of the day's headlines from across the sport."
+  image={lead.image}
+  jsonLd={jsonLd}
+>
+  <section class="lead-story">
+    <div class="wrap lead-grid">
+      <div class="reveal">
+        <div class="plate">
+          <span class="lead">{lead.marque}</span><span>{lead.kicker}</span>{lead.serial && <span>{lead.serial}</span>}
+        </div>
+        <h1><a href={`/articles/${lead.slug}/`}>{lead.title}</a></h1>
+        <p class="standfirst">{lead.lede}</p>
+        {lead.readout && (
+          <div class="readout">
+            {lead.readout.map((r) => (<div><b>{r.value}</b><small>{r.label}</small></div>))}
+          </div>
+        )}
+        <div class="byline">Original — {fmt(lead.published)}</div>
+      </div>
+
+      {lead.image && (
+        <figure class="frame ratio-hero reveal">
+          <img src={lead.image} alt={lead.imageAlt} width="1600" height="845" fetchpriority="high" />
+          <figcaption>{lead.imageNote} &middot; <b>{lead.imageCredit}</b> &middot; {lead.imageLicense}</figcaption>
+        </figure>
+      )}
+    </div>
+  </section>
+
+  <div class="wrap split">
+    <div class="col-edit">
+      <div class="col-head">
+        <h2>Written here</h2>
+        <div class="note"><a href="/archive/">All {posts.length} stories &rarr;</a></div>
+      </div>
+
+      {rest.map((p) => (
+        <article class={p.image ? 'piece' : 'piece notext'}>
+          {p.image && (
+            <figure class="frame ratio-card">
+              <img src={p.image} alt={p.imageAlt} width="1000" height="665" loading="lazy" />
+              <figcaption>{p.imageNote} &middot; <b>{p.imageCredit}</b></figcaption>
+            </figure>
+          )}
+          <div>
+            <div class="plate"><span class="lead">{p.marque}</span><span>{p.kicker}</span></div>
+            <a href={`/articles/${p.slug}/`}>
+              <h3>{p.title}</h3>
+              <p>{p.lede}</p>
+            </a>
+            {!p.image && p.readout && (
+              <div class="readout" style="margin-top:1.1rem">
+                {p.readout.map((r) => (<div><b>{r.value}</b><small>{r.label}</small></div>))}
+              </div>
+            )}
+            <div class="byline">{fmt(p.published)}</div>
+          </div>
+        </article>
+      ))}
+    </div>
+
+    <div class="col-wire"><Wire /></div>
+  </div>
+</Base>
