@@ -4,6 +4,11 @@ lede: "Introduction — The Anti-Supercar The Dodge Viper was never meant to be 
 marque: "Legends"
 kicker: "Other Brands"
 published: 2026-01-15
+image: "/img/viper.jpg"
+imageAlt: "Dodge Viper"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Viper"
 tags: ["american supercars", "analog driving", "automotive history", "car culture", "dodge viper", "high displacement engines"]
 legacySlug: "dodge-viper-when-excess-became-engineering"
 draft: false

@@ -4,6 +4,11 @@ lede: "--- Built to Celebrate 50 Years of Lamborghini. Brutal, Extreme, and Comp
 marque: "Hypercars"
 kicker: "lamborghini"
 published: 2026-03-03
+image: "/img/veneno.jpg"
+imageAlt: "Lamborghini Veneno"
+imageCredit: "Damian Morys"
+imageLicense: "CC BY 2.0"
+imageNote: "Veneno"
 tags: ["carbon fibre hypercar", "Lamborghini 50th anniversary", "Lamborghini hypercar", "Lamborghini limited edition", "Lamborghini V12", "Lamborghini Veneno"]
 legacySlug: "lamborghini-veneno"
 draft: false

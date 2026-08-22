@@ -4,6 +4,11 @@ lede: "Introduction — When Ferrari Had to Change For most of its history, Ferr
 marque: "Future of Performance"
 kicker: "Hypercars"
 published: 2026-01-15
+image: "/img/laferrari.jpg"
+imageAlt: "Ferrari LaFerrari"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "LaFerrari, 2014"
 tags: ["active aerodynamics", "automotive innovation", "carbon fiber monocoque", "ferrari", "ferrari laferrari", "hy kers"]
 legacySlug: "ferrari-laferrari-the-hypercar-that-redefined-ferrari-itself"
 draft: false

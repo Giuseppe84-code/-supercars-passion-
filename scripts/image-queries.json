@@ -1,0 +1,18 @@
+{
+  "_comment": "Overrides for the query find-images.mjs derives from each title. A string replaces the query; null drops the article from the search. Seeded with the cases where the title is a poor description of a photographable subject -- extend it as you work through the remaining articles.",
+
+  "aston-martin-valkyrie-when-a-road-car-is-designed-like-an-f1-prototype": "Aston Martin Valkyrie",
+  "buying-guide-how-to-import-an-original-skyline-from-japan-without-getting-burned": "Nissan Skyline GT-R R34",
+  "why-the-nurburgring-is-every-automakers-obsession": "Nürburgring Nordschleife",
+  "electric-hypercars-rimac-and-the-end-of-combustion-supremacy": "Rimac Nevera",
+  "ferrari-sf90-stradale-when-hybrid-becomes-hypercar": "Ferrari SF90 Stradale",
+  "ferrari-the-story-of-a-man-a-machine-and-a-myth": "Enzo Ferrari",
+
+  "best-first-sports-car": null,
+  "best-sports-cars-2026": null,
+  "best-used-sports-cars-under-30k": null,
+  "fastest-cars-2026": null,
+  "carbon-fiber-titanium-and-beyond-the-material-science-of-hypercars": null,
+  "active-aerodynamics-when-the-car-takes-off-in-reverse": null,
+  "fast-furious-cars-how-a-movie-franchise-created-modern-car-culture-icons": null
+}

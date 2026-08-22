@@ -4,6 +4,11 @@ lede: "In 2022, Horacio Pagani unveiled his third car. Not in a convention cente
 marque: "Hypercars"
 kicker: "864hp car"
 published: 2026-03-01
+image: "/img/utopia.jpg"
+imageAlt: "Pagani Utopia"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Utopia"
 tags: ["864hp car", "Horacio Pagani", "italian hypercar", "limited production hypercar", "manual gearbox hypercar", "Mercedes-AMG V12"]
 legacySlug: "pagani-utopia"
 draft: false

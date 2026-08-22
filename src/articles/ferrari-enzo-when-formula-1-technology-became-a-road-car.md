@@ -4,6 +4,11 @@ lede: "Introduction — A Car That Could Only Be Named Enzo Some cars are named 
 marque: "Hypercars"
 kicker: "Market & Investment"
 published: 2026-01-17
+image: "/img/ferrari-enzo.jpg"
+imageAlt: "Ferrari Enzo"
+imageCredit: "Vauxford"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Enzo, 2003"
 tags: ["active aerodynamics", "carbon fiber monocoque", "early 2000s hypercars", "ferrari", "ferrari enzo", "ferrari halo car"]
 legacySlug: "ferrari-enzo-when-formula-1-technology-became-a-road-car"
 draft: false

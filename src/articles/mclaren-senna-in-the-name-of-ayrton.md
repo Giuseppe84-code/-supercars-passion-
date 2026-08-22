@@ -4,6 +4,11 @@ lede: "Introduction — A Car With No Apology The McLaren Senna is not designed 
 marque: "Legends"
 kicker: "Supercars"
 published: 2026-01-15
+image: "/img/mclaren-senna.jpg"
+imageAlt: "McLaren Senna prototype"
+imageCredit: "Tristan Surtel"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Senna — prototype car"
 tags: ["active aerodynamics", "carbon fiber monocoque", "extreme aerodynamics", "future of hypercars", "Hypercars", "lightweight engineering"]
 legacySlug: "mclaren-senna-in-the-name-of-ayrton"
 draft: false

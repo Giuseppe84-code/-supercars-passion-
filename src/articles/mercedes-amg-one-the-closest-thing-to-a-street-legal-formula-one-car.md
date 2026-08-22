@@ -4,6 +4,11 @@ lede: "The Mercedes-AMG ONE isn’t a “hypercar inspired by racing.” It’s 
 marque: "Engineering & Technology"
 kicker: "Future of Performance"
 published: 2026-02-12
+image: "/img/amg-one.jpg"
+imageAlt: "The silver Mercedes-AMG ONE on its show stand, dihedral doors raised, seen from the front three-quarter"
+imageCredit: "Alexander-93"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "AMG ONE, IAA 2023"
 tags: ["6:29.090", "800-Volt Battery", "active aerodynamics", "AMG ONE", "automotive", "Carbon Monocoque"]
 legacySlug: "mercedes-amg-one-the-closest-thing-to-a-street-legal-formula-one-car"
 draft: false
