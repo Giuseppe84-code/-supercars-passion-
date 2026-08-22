@@ -31,7 +31,7 @@ const IMAGES = [
   ['gemera.jpg',        'Koenigsegg Gemera (52561200208).jpg', 1600],
   ['utopia.jpg',        'Pagani Utopia 7.jpg', 1600],
   ['nevera.jpg',        'Rimac Nevera.jpg', 1600],
-  ['amg-one.jpg',       'Mercedes-AMG Project One, Frankfurt (1Y7A3446).jpg', 1600],
+  ['amg-one.jpg',       'Mercedes-AMG One IAA 2023 1X7A0454.jpg', 1600],
   ['viper.jpg',         'Dodge Viper 4.jpg', 1600],
 ];
 
