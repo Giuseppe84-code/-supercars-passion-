@@ -1,0 +1,71 @@
+---
+import Base from '../../layouts/Base.astro';
+
+const mods = import.meta.glob('../../articles/*.md', { eager: true });
+
+import { getPosts } from '../../lib/posts.js';
+
+export async function getStaticPaths() {
+  const { getPosts } = await import('../../lib/posts.js');
+  return getPosts().map((p) => ({ params: { slug: p.slug }, props: { mod: p.mod } }));
+}
+
+const { mod } = Astro.props;
+const fm = mod.frontmatter;
+const { Content } = mod;
+
+const iso = new Date(fm.published).toISOString();
+const fmt = new Date(fm.published).toLocaleDateString('en-GB', {
+  day: 'numeric', month: 'long', year: 'numeric',
+});
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: fm.title,
+  description: fm.lede,
+  datePublished: iso,
+  dateModified: iso,
+  author: { '@type': 'Person', name: 'Giuseppe DiZillo' },
+  publisher: { '@type': 'Organization', name: 'Supercars Passion' },
+  mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href,
+  ...(fm.image ? { image: [new URL(fm.image, Astro.site).href] } : {}),
+};
+---
+<Base
+  title={`${fm.title} — Supercars Passion`}
+  description={fm.lede}
+  image={fm.image ?? '/img/bolide.jpg'}
+  type="article"
+  published={iso}
+  jsonLd={jsonLd}
+>
+  <div class="wrap post">
+    <a class="back" href="/">&larr; All stories</a>
+
+    <div style="margin-top:1.4rem">
+      <div class="plate">
+        <span class="lead">{fm.marque}</span><span>{fm.kicker}</span>{fm.serial && <span>{fm.serial}</span>}
+      </div>
+    </div>
+
+    <h1>{fm.title}</h1>
+    <p class="standfirst" style="max-width:none">{fm.lede}</p>
+    <div class="byline">Giuseppe DiZillo &middot; <time datetime={iso}>{fmt}</time></div>
+
+    {fm.readout && (
+      <div class="readout">
+        {fm.readout.map((r) => (<div><b>{r.value}</b><small>{r.label}</small></div>))}
+      </div>
+    )}
+
+    {fm.image && (
+      <figure class="frame ratio-wide" style="margin-top:2rem">
+        <img src={fm.image} alt={fm.imageAlt} width="1600" height="800" />
+        <figcaption>{fm.imageNote} &middot; <b>{fm.imageCredit}</b> &middot; {fm.imageLicense}</figcaption>
+      </figure>
+    )}
+
+    <div class="body"><Content /></div>
+  </div>
+</Base>

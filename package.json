@@ -1,0 +1,17 @@
+{
+  "name": "supercars-passion",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "prefetch": "node prefetch.mjs"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "^7.2.4",
+    "fast-xml-parser": "^5.11.0"
+  }
+}

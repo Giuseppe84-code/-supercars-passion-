@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+import { getPosts } from '../lib/posts.js';
+
+const posts = getPosts();
+const byYear = posts.reduce((acc, p) => {
+  const y = new Date(p.published).getFullYear();
+  (acc[y] ??= []).push(p);
+  return acc;
+}, {});
+const years = Object.keys(byYear).sort((a, b) => b - a);
+const fmt = (d) => new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+---
+<Base
+  title="Archive — Supercars Passion"
+  description="Every story published on Supercars Passion, by date."
+>
+  <div class="wrap" style="padding-block:clamp(2rem,6vw,3.5rem) 4rem">
+    <div class="col-head">
+      <h2>Archive</h2>
+      <div class="note">{posts.length} stories</div>
+    </div>
+
+    {years.map((y) => (
+      <section style="margin-bottom:2.5rem">
+        <div class="plate" style="margin-bottom:1rem"><span class="lead">{y}</span><span>{byYear[y].length} stories</span></div>
+        {byYear[y].map((p) => (
+          <a href={`/articles/${p.slug}/`} class="arch">
+            <span class="d">{fmt(p.published)}</span>
+            <span class="t">{p.title}</span>
+            <span class="c">{p.marque}</span>
+          </a>
+        ))}
+      </section>
+    ))}
+  </div>
+
+  <style>
+    .arch{display:grid;grid-template-columns:5rem 1fr auto;gap:1rem;align-items:baseline;
+      padding-block:.8rem;border-bottom:1px solid var(--rule)}
+    .arch .d,.arch .c{font-family:var(--data);font-size:.58rem;letter-spacing:.13em;
+      text-transform:uppercase;color:var(--muted)}
+    .arch .t{font-family:var(--display);font-variation-settings:"opsz" 60,"WONK" 1;
+      font-weight:500;font-size:1.05rem;line-height:1.25}
+    .arch:hover .t{color:var(--brass)}
+    .arch:hover .c{color:var(--brass)}
+    @media(max-width:600px){
+      .arch{grid-template-columns:1fr;gap:.25rem}
+      .arch .c{display:none}
+    }
+  </style>
+</Base>
