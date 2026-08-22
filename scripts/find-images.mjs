@@ -1,46 +1,66 @@
 // Proposes a Wikimedia Commons photograph for each article that has none.
 //
-// Writes scripts/image-proposals.json for a human to approve. Nothing here
-// touches the site: author and licence are read from the Commons API rather
-// than guessed, because a CC attribution naming the wrong photographer is
-// worse than publishing no photograph at all.
+//   node scripts/find-images.mjs --dry-run     show which articles and queries
+//   node scripts/find-images.mjs --limit 20    search the first 20 of them
 //
-//   node scripts/find-images.mjs
+// The set of articles is read from the frontmatter, never hardcoded: an
+// article gains `image:` and leaves this list on its own. Queries are derived
+// from the title, which suits pieces about one car and suits a buying guide
+// badly -- so scripts/image-queries.json overrides any of them, and mapping a
+// slug to null drops an article that has no photographable subject.
+//
+// Writes scripts/image-proposals.json for a human to approve. Author and
+// licence come from the Commons API rather than inference, because a CC
+// attribution naming the wrong photographer is worse than no photograph.
 //
 // Run where the network reaches Commons. The build stays offline; approved
-// images get committed like the three already in public/img.
-import { writeFile } from 'node:fs/promises';
+// images are committed like the ones already in public/img.
+import { readFileSync, existsSync } from 'node:fs';
+import { writeFile, readdir } from 'node:fs/promises';
 
 const UA = 'SupercarsPassion/1.0 (https://supercarspassion.com; editorial image research)';
+const ARTICLES = 'src/articles';
+const OVERRIDES = 'scripts/image-queries.json';
 
-const WANTED = [
-  ['ferrari-f40-the-last-analog-supercar', 'Ferrari F40'],
-  ['ferrari-f50-formula-1-for-the-road', 'Ferrari F50'],
-  ['ferrari-enzo-when-formula-1-technology-became-a-road-car', 'Ferrari Enzo Ferrari car'],
-  ['ferrari-laferrari-the-hypercar-that-redefined-ferrari-itself', 'LaFerrari'],
-  ['porsche-carrera-gt', 'Porsche Carrera GT'],
-  ['porsche-918-spyder-the-hybrid-hypercar-that-turned-traction-into-a-superpower', 'Porsche 918 Spyder'],
-  ['porsche-911-gt3-rs-when-precision-becomes-performance', 'Porsche 911 GT3 RS'],
-  ['porsche-911-gt2-rs-the-most-extreme-interpretation-of-the-911-philosophy', 'Porsche 911 GT2 RS'],
-  ['lamborghini-miura', 'Lamborghini Miura'],
-  ['lamborghini-veneno', 'Lamborghini Veneno'],
-  ['lamborghini-sian', 'Lamborghini Sian'],
-  ['lamborghini-revuelto', 'Lamborghini Revuelto'],
-  ['mclaren-senna-in-the-name-of-ayrton', 'McLaren Senna car'],
-  ['bugatti-divo-the-art-of-cornering-at-400-km-h', 'Bugatti Divo'],
-  ['koenigsegg-jesko-absolut', 'Koenigsegg Jesko'],
-  ['koenigsegg-gemera', 'Koenigsegg Gemera'],
-  ['pagani-utopia', 'Pagani Utopia'],
-  ['rimac-nevera-the-electric-hypercar-that-rewrote-the-physics-textbook', 'Rimac Nevera'],
-  ['mercedes-amg-one-the-closest-thing-to-a-street-legal-formula-one-car', 'Mercedes-AMG One'],
-  ['dodge-viper-when-excess-became-engineering', 'Dodge Viper'],
-];
+const args = process.argv.slice(2);
+const dryRun = args.includes('--dry-run');
+const limit = Number(args[args.indexOf('--limit') + 1]) || Infinity;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const strip = (h) => (h ? h.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim() : '');
+const field = (src, name) =>
+  src.match(new RegExp(`^${name}:\\s*"?(.*?)"?\\s*$`, 'm'))?.[1] ?? '';
+
+// "Bugatti Tourbillon: The 1,800 HP Hypercar…" -> "Bugatti Tourbillon".
+// The subject is what comes before the editorial flourish.
+const queryFromTitle = (title) =>
+  title.split(/\s*[:—(]|\s+[-–]\s+/)[0].replace(/\s+/g, ' ').trim();
+
+async function articlesNeedingImages() {
+  const overrides = existsSync(OVERRIDES)
+    ? JSON.parse(readFileSync(OVERRIDES, 'utf8'))
+    : {};
+
+  const files = (await readdir(ARTICLES)).filter((f) => f.endsWith('.md')).sort();
+  const out = [];
+
+  for (const f of files) {
+    const slug = f.replace(/\.md$/, '');
+    const src = readFileSync(`${ARTICLES}/${f}`, 'utf8');
+    if (/^image:/m.test(src)) continue;              // already illustrated
+
+    if (slug in overrides) {
+      if (overrides[slug] === null) continue;        // deliberately skipped
+      out.push({ slug, query: overrides[slug], source: 'override' });
+    } else {
+      out.push({ slug, query: queryFromTitle(field(src, 'title')), source: 'title' });
+    }
+  }
+  return out;
+}
 
 // Commons throttles automated agents hard -- this repository already hit a 429
-// fetching its three existing photographs -- so every call gets retries.
+// fetching its first three photographs -- so every call gets retries.
 async function search(query) {
   const url = 'https://commons.wikimedia.org/w/api.php?' + new URLSearchParams({
     action: 'query', format: 'json', generator: 'search', gsrnamespace: '6', gsrlimit: '20',
@@ -87,10 +107,24 @@ async function search(query) {
   throw last;
 }
 
-const proposals = [];
-console.log(`[find-images] searching Commons for ${WANTED.length} articles\n`);
+const wanted = (await articlesNeedingImages()).slice(0, limit);
 
-for (const [slug, query] of WANTED) {
+if (!wanted.length) {
+  console.log('[find-images] every article already has an image. Nothing to do.');
+  process.exit(0);
+}
+
+if (dryRun) {
+  console.log(`[find-images] ${wanted.length} article(s) without an image:\n`);
+  for (const w of wanted) console.log(`  ${w.query.padEnd(46)} <- ${w.slug}${w.source === 'override' ? '  [override]' : ''}`);
+  console.log(`\nEdit ${OVERRIDES} to correct any query, or map a slug to null to skip it.`);
+  process.exit(0);
+}
+
+const proposals = [];
+console.log(`[find-images] searching Commons for ${wanted.length} article(s)\n`);
+
+for (const { slug, query } of wanted) {
   process.stdout.write(`  ${query} ... `);
   try {
     const { candidates, rejected } = await search(query);
@@ -104,5 +138,5 @@ for (const [slug, query] of WANTED) {
 }
 
 await writeFile('scripts/image-proposals.json', JSON.stringify(proposals, null, 2) + '\n');
-console.log(`\n[find-images] ${proposals.filter((p) => p.candidates.length).length}/${WANTED.length} articles have candidates`);
+console.log(`\n[find-images] ${proposals.filter((p) => p.candidates.length).length}/${wanted.length} articles have candidates`);
 console.log('[find-images] wrote scripts/image-proposals.json');
