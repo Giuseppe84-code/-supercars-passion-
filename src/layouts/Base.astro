@@ -40,10 +40,11 @@ const year = new Date().getFullYear();
 
   {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
 
-  <!-- Cloudflare Web Analytics. is:inline keeps Astro from bundling it: the
-       beacon has to reach the browser exactly as Cloudflare issued it. No
-       cookies, so no consent banner. -->
-  <script is:inline type="module" defer src="https://static.cloudflareinsights.com/beacon.min.js"
+  <!-- Cloudflare Web Analytics. No cookies, so no consent banner.
+       is:inline keeps Astro from bundling it, and it loads as a classic
+       deferred script rather than a module: the beacon reads its token from
+       document.currentScript, which is null inside an ES module. -->
+  <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js"
           data-cf-beacon='{"token": "3c113d1f48d54cc89dd11f4a24a6f805"}'></script>
 </head>
 <body>
