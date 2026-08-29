@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Sports Cars of 2026 — Ranked by Value"
-lede: "--- Maximum Performance Per Dollar. The Definitive List. --- Value in a sports car doesn't mean cheap. It means getting the most performance, the most engineering, and the most driving satisfaction for every dollar you spend."
+lede: "Maximum Performance Per Dollar. The Definitive List."
 marque: "Guides"
 kicker: "best sports cars 2026"
 published: 2026-03-03

@@ -1,6 +1,6 @@
 ---
 title: "Your First Track Day — Everything You Need to Know Before You Go"
-lede: "--- The Most Fun You Can Have Legally. Here's How Not to Ruin It. --- A track day is the moment everything changes. The moment you realise your sports car has been living at 40% of its capability on public roads."
+lede: "The Most Fun You Can Have Legally. Here's How Not to Ruin It."
 marque: "Guides"
 kicker: "brake fluid track day"
 published: 2026-03-03

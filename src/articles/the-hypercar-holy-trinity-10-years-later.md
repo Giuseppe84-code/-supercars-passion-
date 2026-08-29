@@ -1,5 +1,5 @@
 ---
-title: "How LaFerrari, P1 &amp; 918 Spyder Revolutionized Hybrids"
+title: "How LaFerrari, P1 & 918 Spyder Revolutionized Hybrids"
 lede: "A retrospective on LaFerrari, P1, and 918 Spyder: how they reinvented hybrids—and what they’re worth today A decade ago, the word “hybrid” still carried baggage. It suggested efficiency first, drama second."
 marque: "Design & Philosophy"
 kicker: "Engineering & Technology"

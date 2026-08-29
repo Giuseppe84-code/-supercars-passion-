@@ -1,6 +1,6 @@
 ---
 title: "Bugatti Chiron Super Sport 300+ — The Car That Broke 300 mph"
-lede: "--- On September 2, 2019, a Modified Chiron Did Something Nobody Had Ever Done Before. --- Speed records in the automotive world are common. Manufacturers chase them regularly. Most are forgotten within weeks."
+lede: "On September 2, 2019, a Modified Chiron Did Something Nobody Had Ever Done Before."
 marque: "bugatti"
 kicker: "Hypercars"
 published: 2026-03-03

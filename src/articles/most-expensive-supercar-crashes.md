@@ -1,6 +1,6 @@
 ---
 title: "The Most Expensive Supercar Crashes in History — And What Caused Them"
-lede: "--- $50 Million in Twisted Metal. The Accidents That Made Headlines and the Human Stories Behind Them. --- Supercars crash. It sounds obvious — they are, after all, machines operated by human beings on imperfect roads."
+lede: "$50 Million in Twisted Metal. The Accidents That Made Headlines and the Human Stories Behind Them."
 marque: "bugatti"
 kicker: "Events & Culture"
 published: 2026-03-03

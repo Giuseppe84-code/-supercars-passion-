@@ -1,5 +1,5 @@
 ---
-title: "How _Fast &amp; Furious_ Elevated the Nissan Skyline GT-R to Iconic Status"
+title: "How Fast & Furious Elevated the Nissan Skyline GT-R to Iconic Status"
 lede: "How Fast & Furious turned a Japanese sports car into a global icon and blue-chip collectible Before the early 2000s, the Nissan Skyline GT-R was already a legend—especially in Japan and among hardcore enthusiasts."
 marque: "Events & Culture"
 kicker: "Other Brands"

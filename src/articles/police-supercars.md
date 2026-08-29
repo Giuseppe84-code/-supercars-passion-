@@ -1,6 +1,6 @@
 ---
 title: "The World's Most Incredible Police Supercars — The Cars That Chase, Not Just Patrol"
-lede: "Lamborghini, Ferrari, Bugatti. These Aren't Dream Cars. They're On Active Duty. --- Most police cars are built for practicality — reliable engines, large boots for equipment, comfortable seats for long shifts."
+lede: "Lamborghini, Ferrari, Bugatti. These Aren't Dream Cars. They're On Active Duty."
 marque: "bugatti"
 kicker: "Events & Culture"
 published: 2026-03-03

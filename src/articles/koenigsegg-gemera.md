@@ -1,6 +1,6 @@
 ---
 title: "Koenigsegg Gemera — The 1,700hp Family Car That Makes No Sense and Every Sense"
-lede: "--- Four Seats. Four Doors. 1,700 Horsepower. Zero Emissions Capability. Koenigsegg Built a Family Car and It's the Most Extreme Thing They've Ever Done."
+lede: "Four Seats. Four Doors. 1,700 Horsepower. Zero Emissions Capability. Koenigsegg Built a Family Car and It's the Most Extreme Thing They've Ever Done."
 marque: "Hypercars"
 kicker: "koenigsegg"
 published: 2026-03-03
