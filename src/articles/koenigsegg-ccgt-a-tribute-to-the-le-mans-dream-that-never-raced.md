@@ -35,3 +35,5 @@ The CCGT+ is, at its core, about closure — turning a cancelled dream into a ce
 **Where to find official images:** Koenigsegg press resources — koenigsegg.com (press/media). As the CCGT+ is reported but not yet fully detailed, current confirmed imagery may be limited; for context, official images of the original CCGT and the CC850 are the safest editorial choice until the CCGT+ is formally unveiled. Credit as Koenigsegg specifies.
 
 ---
+
+*Related reads: [Koenigsegg Jesko Absolut](/articles/koenigsegg-jesko-absolut/) · [How Koenigsegg Redefined the Hypercar Industry](/articles/koenigsegg-how-one-man-reinvented-the-hypercar-industry/) · [Koenigsegg Gemera](/articles/koenigsegg-gemera/)*

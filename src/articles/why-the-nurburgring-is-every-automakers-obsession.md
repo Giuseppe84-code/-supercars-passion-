@@ -117,3 +117,7 @@ Because it’s the closest thing to a global performance exam:
 Do you think Nürburgring lap times still define a “successful” supercar today—or have we reached the point where **real-world usability, hybrid/EV performance, and customer experience** matter more than chasing a number?
 
 Comment your take .
+
+---
+
+*Related reads: [Porsche 911 GT3 RS](/articles/porsche-911-gt3-rs-when-precision-becomes-performance/) · [Porsche 911 GT2 RS](/articles/porsche-911-gt2-rs-the-most-extreme-interpretation-of-the-911-philosophy/) · [McLaren MCL-HY](/articles/mclaren-mcl-hy-woking-returns-to-le-mans-with-a-707bhp-hybrid-hypercar/)*

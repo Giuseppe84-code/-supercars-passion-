@@ -200,3 +200,7 @@ It rewards conviction.
 Which of these five would you choose for your dream garage—and why?
 
 Or tell me your own pick for the most underrated supercar ever built.
+
+---
+
+*Related reads: [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/) · [The Ford GT Legacy](/articles/ford-gt-the-full-story-from-the-gt40-mission-to-todays-track-only-mk-iv/) · [Buying Guide](/articles/buying-guide-how-to-import-an-original-skyline-from-japan-without-getting-burned/)*

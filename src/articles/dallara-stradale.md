@@ -161,3 +161,7 @@ The Dallara Stradale does not compete with Ferrari, Lamborghini, or McLaren. It 
 It weighs less than any competitor. It generates more downforce than almost any road car. It can be four different cars depending on what body you install. It was built by the man who designed the Lamborghini Miura, using 50 years of racing knowledge applied to a single purpose: to remind you why driving matters.
 
 In a world of electric hypercars with 2,000 horsepower and autonomous driving modes, the Dallara Stradale is a statement. It says: the point was never the destination. The point was always the road.
+
+---
+
+*Related reads: [Understanding the Green Hell](/articles/why-the-nurburgring-is-every-automakers-obsession/) · [Your First Track Day](/articles/first-track-day-guide/) · [Misunderstood Supercars History](/articles/the-5-most-underrated-supercars-in-history/)*

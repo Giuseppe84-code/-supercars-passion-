@@ -128,6 +128,4 @@ In a world of incremental improvements and cautious engineering, the Gemera is a
 
 ---
 
- 
-
----
+*Related reads: [Koenigsegg Jesko Absolut](/articles/koenigsegg-jesko-absolut/) · [How Koenigsegg Redefined the Hypercar Industry](/articles/koenigsegg-how-one-man-reinvented-the-hypercar-industry/) · [Koenigsegg CCGT+](/articles/koenigsegg-ccgt-a-tribute-to-the-le-mans-dream-that-never-raced/)*

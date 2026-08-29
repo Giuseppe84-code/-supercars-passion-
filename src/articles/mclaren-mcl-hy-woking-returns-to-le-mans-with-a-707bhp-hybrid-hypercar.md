@@ -31,3 +31,5 @@ Ferrari, Porsche, Toyota and the rest of the Hypercar field have been warned. Mc
 *Can McLaren topple Ferrari at Le Mans in 2027? Drop your prediction below.*
 
 ---
+
+*Related reads: [McLaren MCL-HY GTR](/articles/mclaren-mcl-hy-gtr-the-non-hybrid-730bhp-track-car-for-35-lucky-owners/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [McLaren P1](/articles/mclaren-p1-the-hybrid-hypercar-that-turned-instant-torque-active-aero-into-a-new-definition-of-fast/)*

@@ -91,3 +91,7 @@ Today, these cars aren't just "used vehicles"; they are blue-chip investments. P
 | **Mitsubishi 3000GT VR-4** | 3.0L 6G72 V6 Twin-Turbo | AWD | 320 | 5.8s | 256 km/h | 1,725 kg |
 
 We all have that one car that started our obsession. Was it a silver R34 in a movie, or an RX-7 screaming in a video game? **Share your first JDM memory with us below—we want to hear your story!**"
+
+---
+
+*Related reads: [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/) · [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/) · [Nissan Skyline History](/articles/nissan-skyline-history/)*

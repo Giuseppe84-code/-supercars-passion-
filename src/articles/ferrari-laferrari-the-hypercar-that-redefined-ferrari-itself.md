@@ -122,15 +122,11 @@ But as a decision.
 
 ---
 
-### SEO Meta
-
-**Title:** Ferrari LaFerrari: The Hypercar That Redefined Ferrari Itself
-**Meta Description:** Discover how Ferrari LaFerrari blends a naturally aspirated V12 with HY-KERS hybrid technology to redefine hypercar performance, aerodynamics, and Ferrari’s future.
-
----
 
 ## Technical Specifications — Ferrari LaFerrari
 
 Ferrari LaFerrari: manufacturer Ferrari; production years 2013–2016 (coupé) and 2016–2018 (Aperta); production units 499 coupés and 210 Apertas; layout mid-engine, rear-wheel drive; engine 6.3-liter naturally aspirated V12 producing 800 hp at 9,250 rpm combined with a 120 kW electric motor for a total system output of 963 hp and approx. 900 Nm of combined torque; 0–100 km/h in approx. 2.6 s; 0–200 km/h in approx. 6.9 s; top speed over 350 km/h; transmission 7-speed dual-clutch automatic; battery lithium-ion HY-KERS system; chassis carbon fiber monocoque developed with Formula 1 technology; kerb weight approx. 1,585 kg; suspension double wishbone front and rear with adaptive dampers; brakes carbon-ceramic discs with 6-piston front and 4-piston rear calipers; aerodynamics active front flaps and adaptive rear spoiler.
 
 ---
+
+*Related reads: [Ferrari SF90](/articles/ferrari-sf90-stradale-when-hybrid-becomes-hypercar/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [Ferrari Enzo](/articles/ferrari-enzo-when-formula-1-technology-became-a-road-car/)*

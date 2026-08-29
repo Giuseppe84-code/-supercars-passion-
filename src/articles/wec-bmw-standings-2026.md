@@ -27,3 +27,7 @@ The conventional expectation was that the bespoke LMH cars would hold the advant
 BMW's position has not come from dominant single results. It has come from finishing, repeatedly, in the places that pay. Over a season measured across six-hour races and one twenty-four-hour race, the team that avoids the expensive afternoon usually ends up in front.
 
 Whether that holds through the closing rounds is a different question. Championships decided on consistency tend to be vulnerable to a single bad race, and BMW has not yet had one.
+
+---
+
+*Related reads: [Porsche 911 vs BMW M4](/articles/porsche-911-vs-bmw-m4/)*

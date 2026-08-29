@@ -115,3 +115,7 @@ If you had to pick **one** V12 philosophy for your dream garage, which do you ch
 Lamborghini: road-first refinement turned into theatrical power
 
 Ferrari: racing lineage, screaming precision
+
+---
+
+*Related reads: [Lamborghini Miura](/articles/lamborghini-miura/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [Lamborghini Veneno](/articles/lamborghini-veneno/)*

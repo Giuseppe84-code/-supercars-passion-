@@ -88,3 +88,7 @@ That is the story of Godzilla.
 ---
 
 *Which is your favourite Skyline generation — the Hakosuka, the legendary R34, or the global supercar R35? Let us know in the comments!*
+
+---
+
+*Related reads: [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/) · [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/) · [The Evolution of Skyline](/articles/nissan-gt-r-nismo-and-the-skyline-family-from-the-first-prince-skyline-to-the-last-r34-godzilla/)*

@@ -123,15 +123,11 @@ And that makes it priceless.
 
 ---
 
-### SEO Meta
-
-**Title:** Ferrari P80/C: The Last True One-Off
-**Meta Description:** Discover how Ferrari P80/C represents a pure design and engineering exercise — a track-only one-off hypercar built without compromise or commercial constraints.
-
----
 
 ## Technical Specifications — Ferrari P80/C
 
 Ferrari P80/C: manufacturer Ferrari; production year 2019; production units 1 (one-off); layout mid-engine, rear-wheel drive; engine 3.9-liter twin-turbocharged V8 derived from the 488 GT3 producing approximately 700 hp; 0–100 km/h not officially published; top speed not officially published; transmission 6-speed sequential racing gearbox; chassis aluminum and carbon composite spaceframe based on the 488 GT3; kerb weight not officially published (estimated approx. 1,300 kg); suspension double wishbone front and rear with racing dampers; brakes carbon-ceramic racing discs; aerodynamics fully fixed race-derived aerodynamic package with long-tail design optimized for high-speed stability.
 
 ---
+
+*Related reads: [Ferrari F50](/articles/ferrari-f50-formula-1-for-the-road/) · [Ferrari 488 Pista](/articles/ferrari-488-pista-when-ferrari-turned-a-supercar-into-a-weapon/) · [Ferrari SF90](/articles/ferrari-sf90-stradale-when-hybrid-becomes-hypercar/)*

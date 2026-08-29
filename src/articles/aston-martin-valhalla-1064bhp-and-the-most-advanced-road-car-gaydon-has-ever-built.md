@@ -29,3 +29,5 @@ The Valhalla lands at a fascinating moment. Combustion is reaching its engineeri
 *Has Aston Martin done enough to take on Ferrari and McLaren? Have your say below.*
 
 ---
+
+*Related reads: [Why the Aston Martin Valkyrie Redefines Road-Legal…](/articles/aston-martin-valkyrie-when-a-road-car-is-designed-like-an-f1-prototype/) · [Aston Martin History](/articles/aston-martin-history/) · [F1 Tech's Impact on Hypercar Performance](/articles/how-f1-technology-migrates-into-road-hypercars/)*

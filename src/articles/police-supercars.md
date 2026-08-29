@@ -124,6 +124,4 @@ The supercar as police vehicle is many things simultaneously: practical tool, pu
 
 ---
 
- 
-
----
+*Related reads: [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/) · [Cinematic Cars That Defined Generations](/articles/fast-furious-cars-how-a-movie-franchise-created-modern-car-culture-icons/) · [Understanding the Green Hell](/articles/why-the-nurburgring-is-every-automakers-obsession/)*

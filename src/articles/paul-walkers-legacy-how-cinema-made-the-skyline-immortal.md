@@ -188,3 +188,7 @@ Which movie car do you think had the biggest impact on real-world values?
 * Porsche 911 (various film roles)
 
 Drop your pick in the comments
+
+---
+
+*Related reads: [Buying Guide](/articles/buying-guide-how-to-import-an-original-skyline-from-japan-without-getting-burned/) · [Top 5 Rarest GT-Rs](/articles/the-5-rarest-gt-r-variants-youll-probably-never-see-in-real-life/) · [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/)*

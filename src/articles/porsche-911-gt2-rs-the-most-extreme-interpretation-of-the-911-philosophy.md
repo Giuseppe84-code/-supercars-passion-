@@ -191,15 +191,11 @@ After the GT2 RS, there is nothing left to prove.
 
 ---
 
-### SEO Meta
-
-**Title:** Porsche 911 GT2 RS: The Most Extreme Interpretation of the 911
-**Meta Description:** Discover the Porsche 911 GT2 RS in depth — its brutal turbocharged power, rear-wheel-drive madness, Nürburgring dominance, and uncompromising engineering philosophy.
-
----
 
 ## Technical Specifications — Porsche 911 GT2 RS
 
 Porsche 911 GT2 RS: manufacturer Porsche; production years 2018–2019; production units approx. 1,000; layout rear-engine, rear-wheel drive; engine 3.8-liter twin-turbocharged flat-six producing 700 hp and 750 Nm of torque; 0–100 km/h in approx. 2.8 s; 0–200 km/h in approx. 8.3 s; top speed 340 km/h; transmission 7-speed PDK dual-clutch automatic; chassis aluminum-steel monocoque with extensive carbon fiber components; kerb weight approx. 1,470 kg (lighter with Weissach Package); suspension front MacPherson strut and rear multi-link with PASM; brakes carbon-ceramic PCCB with 6-piston front and 4-piston rear calipers; aerodynamics fixed rear wing, aggressive front splitter, functional vents and diffuser optimized for high-speed downforce.
 
 ---
+
+*Related reads: [Porsche 911 GT3 RS](/articles/porsche-911-gt3-rs-when-precision-becomes-performance/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/)*

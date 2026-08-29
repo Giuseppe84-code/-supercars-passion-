@@ -114,11 +114,4 @@ Dodge Viper: manufacturer Dodge (SRT); model Viper ACR (Gen V); production years
 
 ---
 
----
-
-### SEO Meta
-
-**Title:** Dodge Viper: When Excess Became Engineering
-**Meta description:** Discover why the Dodge Viper became a legend through raw power, minimal electronics, and uncompromising mechanical performance.
-
----
+*Related reads: [JDM vs Muscle](/articles/jdm-vs-muscle-cars-two-worlds-one-addiction/) · [Hypercars vs Supercars](/articles/hypercars-vs-supercars-what-truly-defines-the-difference/) · [Chevrolet Corvette](/articles/chevrolet-corvette-americas-enduring-performance-icon/)*

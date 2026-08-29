@@ -128,9 +128,4 @@ Rimac hypercars: manufacturer Rimac Automobili; layout for all models mid-engine
 
 ---
 
-### SEO Meta
-
-**Title:** Electric Hypercars: Rimac and the End of Combustion Supremacy  
-**Meta description:** Discover how Rimac and electric hypercars are redefining performance and signaling the end of combustion engine supremacy.
-
----
+*Related reads: [EV Hypercars](/articles/the-era-of-electric-hypercars-rimac-vs-lotus/) · [Rimac Nevera](/articles/rimac-nevera-the-electric-hypercar-that-rewrote-the-physics-textbook/) · [The Evolution of Supercars](/articles/the-evolution-of-supercars-from-classic-icons-to-future-innovations/)*

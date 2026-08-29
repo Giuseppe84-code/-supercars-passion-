@@ -120,15 +120,11 @@ It is the last great mechanical Lamborghini.
 
 ---
 
-### SEO Meta
-
-**Title:** Lamborghini Aventador SVJ: When Brutality Learned Discipline
-**Meta Description:** Discover how Lamborghini Aventador SVJ transformed raw V12 power into controlled performance through advanced aerodynamics and track-focused engineering.
-
----
 
 ## Technical Specifications — Lamborghini Aventador SVJ
 
 Lamborghini Aventador SVJ: manufacturer Lamborghini; production years 2018–2021; production units approx. 900 coupés and 800 roadsters; layout mid-engine, all-wheel drive; engine 6.5-liter naturally aspirated V12 producing 770 hp at 8,500 rpm and 720 Nm of torque; 0–100 km/h in approx. 2.8 s; 0–200 km/h in approx. 8.6 s; top speed over 350 km/h; transmission 7-speed single-clutch automated manual (ISR); chassis carbon fiber monocoque with aluminum subframes; kerb weight approx. 1,525 kg (dry approx. 1,525 kg); suspension pushrod front and rear with adaptive dampers; brakes carbon-ceramic discs with 6-piston front and 4-piston rear calipers; aerodynamics ALA 2.0 active aerodynamic system with dynamic front and rear airflow control.
 
 ---
+
+*Related reads: [Lamborghini Huracán Performante](/articles/lamborghini-huracan-performante-the-day-lamborghini-learned-to-think-in-air/) · [Lamborghini Temerario](/articles/lamborghini-temerario-the-10000rpm-hybrid-v8-that-replaced-the-huracan/) · [Lamborghini History](/articles/lamborghini-history/)*

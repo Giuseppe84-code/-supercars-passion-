@@ -190,15 +190,11 @@ That is why the Enzo matters.
 
 ---
 
-### SEO Meta
-
-**Title:** Ferrari Enzo: When Formula 1 Technology Became a Road Car
-**Meta Description:** An in-depth exploration of the Ferrari Enzo — its Formula 1-derived engineering, V12 power, aerodynamic philosophy, and lasting impact on hypercar history.
-
----
 
 ## Technical Specifications — Ferrari Enzo
 
 Ferrari Enzo: manufacturer Ferrari; production years 2002–2004; production units 399 originally planned, later increased to 400; layout mid-engine, rear-wheel drive; engine 6.0-liter naturally aspirated V12 producing 660 hp at 7,800 rpm and 657 Nm of torque; 0–100 km/h in approx. 3.6 s; 0–200 km/h in approx. 9.5 s; top speed 355 km/h; transmission 6-speed single-clutch automated manual; chassis carbon fiber monocoque; kerb weight approx. 1,365 kg; suspension pushrod front and rear with adaptive dampers; brakes carbon-ceramic discs; aerodynamics active front and rear aerodynamic elements with flat underbody and rear diffuser.
 
 ---
+
+*Related reads: [Ferrari F50](/articles/ferrari-f50-formula-1-for-the-road/) · [LaFerrari](/articles/ferrari-laferrari-the-hypercar-that-redefined-ferrari-itself/) · [Ferrari 488 Pista](/articles/ferrari-488-pista-when-ferrari-turned-a-supercar-into-a-weapon/)*

@@ -126,3 +126,7 @@ If the R36 becomes a hybrid, what matters most to you?
 * **A true EV GT-R** (silence, instant torque, and a new kind of drama)
 
 Comment your vote—and tell me whether you’d prefer **R35-style brutality** or a more **911 Turbo-like precision** approach for the next generation.
+
+---
+
+*Related reads: [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/) · [Top 5 Rarest GT-Rs](/articles/the-5-rarest-gt-r-variants-youll-probably-never-see-in-real-life/) · [RB26DETT](/articles/rb26dett-anatomy-of-the-engine-that-built-a-legend/)*

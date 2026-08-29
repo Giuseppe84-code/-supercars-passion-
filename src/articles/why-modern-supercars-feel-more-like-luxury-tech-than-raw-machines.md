@@ -139,3 +139,5 @@ But less raw.
 And that may be the biggest transformation the supercar world has seen in decades.
 
 ---
+
+*Related reads: [The Evolution of Supercars](/articles/why-modern-supercars-are-no-longer-just-about-speed/) · [The Evolution of Supercars](/articles/the-evolution-of-supercars-from-classic-icons-to-future-innovations/) · [Porsche 911 Turbo](/articles/porsche-911-turbo-the-quiet-master-of-speed/)*

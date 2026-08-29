@@ -35,3 +35,5 @@ The K39 will be produced in limited numbers — Kimera has not disclosed exactly
 **Where to find official images:** Kimera Automobili — kimera-automobili.com (press/media section) and the brand's official channels. For a 1,000 hp limited-production car, official imagery is the safest route; request press access if needed. Credit as the maker specifies.
 
 ---
+
+*Related reads: [Koenigsegg CCGT+](/articles/koenigsegg-ccgt-a-tribute-to-the-le-mans-dream-that-never-raced/) · [How Pagani and Koenigsegg Redefined Supercar…](/articles/pagani-and-koenigsegg-the-artisans-who-challenged-the-giants/) · [Koenigsegg Jesko Absolut](/articles/koenigsegg-jesko-absolut/)*

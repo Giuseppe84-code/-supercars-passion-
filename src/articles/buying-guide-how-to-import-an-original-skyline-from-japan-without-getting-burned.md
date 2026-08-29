@@ -194,3 +194,7 @@ If the Skyline costs **€60,000** in Japan, don’t be shocked if the “on-the
 ---
 
 ##
+
+---
+
+*Related reads: [The Evolution of Skyline](/articles/nissan-gt-r-nismo-and-the-skyline-family-from-the-first-prince-skyline-to-the-last-r34-godzilla/) · [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/) · [Top 5 Rarest GT-Rs](/articles/the-5-rarest-gt-r-variants-youll-probably-never-see-in-real-life/)*

@@ -113,15 +113,11 @@ It is Ferrari, undiluted.
 
 ---
 
-### SEO Meta
-
-**Title:** Ferrari 488 Pista: When Ferrari Turned a Supercar into a Weapon
-**Meta Description:** Discover how the Ferrari 488 Pista transformed a refined supercar into a track-focused machine through weight reduction, aerodynamics, and racing engineering.
-
----
 
 ## Technical Specifications — Ferrari 488 Pista
 
 Ferrari 488 Pista: manufacturer Ferrari; production years 2018–2020; production units limited (exact number not officially published); layout mid-engine, rear-wheel drive; engine 3.9-liter twin-turbocharged V8 producing 720 hp at 8,000 rpm and 770 Nm of torque; 0–100 km/h in approx. 2.85 s; 0–200 km/h in approx. 7.6 s; top speed 340 km/h; transmission 7-speed dual-clutch automatic; chassis aluminum spaceframe with carbon fiber body elements; kerb weight approx. 1,385 kg; suspension double wishbone front and rear with adaptive dampers; brakes carbon-ceramic discs with 6-piston front and 4-piston rear calipers; aerodynamics S-duct front system, enlarged diffuser, underbody aero optimization.
 
 ---
+
+*Related reads: [Ferrari F50](/articles/ferrari-f50-formula-1-for-the-road/) · [Ferrari P80/C](/articles/ferrari-p80-c-the-last-true-one-off/) · [LaFerrari](/articles/ferrari-laferrari-the-hypercar-that-redefined-ferrari-itself/)*
