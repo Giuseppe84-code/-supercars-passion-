@@ -1,13 +1,18 @@
 # The Wire is built from live RSS feeds, so the site is only as fresh as its
 # last build. This triggers a rebuild on a schedule via a Netlify build hook.
 #
+# Once a day, not four times. Netlify bills each build as a whole minute even
+# though these finish in about fifteen seconds, so every six hours spent 120 of
+# the free tier's 300 monthly minutes refreshing a news rail for an audience
+# that is not there yet. Raise the frequency when there are readers to serve.
+#
 # Setup: Netlify → Site configuration → Build & deploy → Build hooks →
 # "Add build hook", then save the URL as a repository secret NETLIFY_BUILD_HOOK.
 name: Refresh The Wire
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every six hours, UTC
+    - cron: '0 5 * * *'      # 05:00 UTC daily — early morning in Italy
   workflow_dispatch:         # and on demand from the Actions tab
 
 jobs:
