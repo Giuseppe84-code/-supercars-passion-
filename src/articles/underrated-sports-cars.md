@@ -1,6 +1,6 @@
 ---
 title: "Most Underrated Sports Cars You've Never Heard Of (2026)"
-lede: "The Hidden Gems the Internet Forgot to Tell You About --- Everyone knows the Porsche 911/porsche-history/, the Ferrari/ferrari-history/, the Lamborghini/lamborghini-history/."
+lede: "The Hidden Gems the Internet Forgot to Tell You About"
 marque: "Guides"
 kicker: "affordable sports cars"
 published: 2026-03-03

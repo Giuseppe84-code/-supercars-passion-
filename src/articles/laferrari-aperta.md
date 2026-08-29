@@ -1,6 +1,6 @@
 ---
 title: "LaFerrari Aperta — The Most Exclusive Ferrari Ever Built"
-lede: "--- Only 210 Were Made. Here's Why Every Single One Was Spoken For Before the Car Was Even Announced."
+lede: "Only 210 Were Made. Here's Why Every Single One Was Spoken For Before the Car Was Even Announced."
 marque: "Design & Philosophy"
 kicker: "Engineering & Technology"
 published: 2026-03-03

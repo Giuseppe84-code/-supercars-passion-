@@ -1,6 +1,6 @@
 ---
 title: "Porsche 911 vs BMW M4 — Which One Should You Actually Buy in 2026?"
-lede: "The definitive comparison between two of the greatest sports cars on the market today --- If you're reading this, you've already narrowed your choice down to two of the finest performance cars money can buy."
+lede: "The definitive comparison between two of the greatest sports cars on the market today"
 marque: "porsche"
 kicker: "Reviews & Comparisons"
 published: 2026-03-02

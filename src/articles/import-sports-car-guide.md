@@ -1,6 +1,6 @@
 ---
 title: "How to Buy a Sports Car from Another Country — The Complete Guide (2026)"
-lede: "--- Import the Car You Want, Not Just the Car Available Near You. --- The sports car you've been searching for months is sitting in a dealership 3,000 miles away — perfect spec, perfect color, perfect price."
+lede: "Import the Car You Want, Not Just the Car Available Near You."
 marque: "Guides"
 kicker: "BringATrailer"
 published: 2026-03-03

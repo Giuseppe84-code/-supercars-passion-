@@ -1,6 +1,6 @@
 ---
 title: "What It Actually Costs to Own a Supercar for One Year — The Numbers Nobody Shows You"
-lede: "--- The Purchase Price Is Just the Beginning. Here Is the Full, Uncomfortable Truth. --- Every year, thousands of people buy supercars."
+lede: "The Purchase Price Is Just the Beginning. Here Is the Full, Uncomfortable Truth."
 marque: "Guides"
 kicker: "Bugatti Chiron maintenance cost"
 published: 2026-03-03
