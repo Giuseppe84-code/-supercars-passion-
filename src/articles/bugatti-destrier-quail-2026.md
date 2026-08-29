@@ -41,3 +41,7 @@ So the Destrier is not really a new model. It is a coda. It is what happens when
 ## The pattern worth noticing
 
 Monterey 2026 was full of this. Not limited series of twenty or forty, but single commissions: one car, one buyer, a name invented for the occasion. It is the clearest signal yet of where the top of this market has moved. The scarcity is no longer in the production run. It is in the fact that there is no production run at all.
+
+---
+
+*Related reads: [Bugatti Chiron](/articles/why-the-bugatti-chiron-is-closer-to-aerospace-than-to-automotive-engineering/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [Chiron Super Sport 300+ vs Venom F5 vs Tuatara](/articles/the-500-km-h-club-bugatti-vs-hennessey-vs-ssc/)*

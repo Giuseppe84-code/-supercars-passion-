@@ -289,3 +289,7 @@ Would you rather own:
 * Or a fully built 1,000 hp single-turbo monster?
 
 Comment your choice
+
+---
+
+*Related reads: [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/) · [Top 5 Rarest GT-Rs](/articles/the-5-rarest-gt-r-variants-youll-probably-never-see-in-real-life/) · [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/)*

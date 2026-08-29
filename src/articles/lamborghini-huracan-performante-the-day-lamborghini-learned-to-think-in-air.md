@@ -131,14 +131,11 @@ It convinces you.
 
 ---
 
-### SEO Meta
-
-**Meta Description:** Discover how Lamborghini Huracán Performante redefined performance through active aerodynamics, lightweight engineering, and aerodynamic torque vectoring.
-
----
 
 ## Technical Specifications — Lamborghini Huracán Performante
 
 Lamborghini Huracán Performante: manufacturer Lamborghini; production years 2017–2019; production units approx. 640 coupés and 43 Spyders; layout mid-engine, all-wheel drive; engine 5.2-liter naturally aspirated V10 producing 640 hp at 8,000 rpm and 600 Nm of torque; 0–100 km/h in approx. 2.9 s; 0–200 km/h in approx. 8.9 s; top speed 325 km/h; transmission 7-speed dual-clutch automatic; chassis aluminum and carbon composite spaceframe with forged composite body panels; kerb weight approx. 1,382 kg; suspension double wishbone front and rear with adaptive dampers; brakes carbon-ceramic discs with 6-piston front and 4-piston rear calipers; aerodynamics ALA active aerodynamic system with dynamic front and rear aero vectoring.
 
 ---
+
+*Related reads: [Aventador SVJ](/articles/lamborghini-aventador-svj-when-brutality-learned-discipline/) · [Lamborghini Temerario](/articles/lamborghini-temerario-the-10000rpm-hybrid-v8-that-replaced-the-huracan/) · [Lamborghini History](/articles/lamborghini-history/)*

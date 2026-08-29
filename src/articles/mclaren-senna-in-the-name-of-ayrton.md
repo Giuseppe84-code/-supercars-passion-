@@ -222,9 +222,4 @@ It is a philosophy made of carbon fiber, air, and obsession.
 
 ---
 
-### SEO Meta
-
-**Title:** McLaren Senna: When Performance Becomes a Moral Obligation
-**Meta description:** Discover how the McLaren Senna redefines extreme performance through radical aerodynamics, lightweight engineering, and uncompromising design.
-
----
+*Related reads: [McLaren P1](/articles/mclaren-p1-the-hybrid-hypercar-that-turned-instant-torque-active-aero-into-a-new-definition-of-fast/) · [McLaren 600LT](/articles/858/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/)*

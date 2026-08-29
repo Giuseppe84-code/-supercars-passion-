@@ -108,7 +108,4 @@ Ferrari F50: manufacturer Ferrari; production years 1995–1997; production unit
 
 ---
 
-### SEO Meta
-
-**Title:** Ferrari F50: Formula 1 for the Road  
-**Meta description:** Discover why the Ferrari F50 is essentially a Formula 1 car for the road — from its V12 engine to its carbon fiber chassis and racing DNA.
+*Related reads: [Ferrari Enzo](/articles/ferrari-enzo-when-formula-1-technology-became-a-road-car/) · [Ferrari F40](/articles/ferrari-f40-the-last-analog-supercar/) · [Ferrari 488 Pista](/articles/ferrari-488-pista-when-ferrari-turned-a-supercar-into-a-weapon/)*

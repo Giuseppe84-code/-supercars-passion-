@@ -112,3 +112,7 @@ It’s less “EV hypercar” and more “Lotus philosophy, rewritten in electro
 ## If you could choose one electric hypercar as your “future classic,” would it be the **Evija** (aero art + per-wheel torque) or the **Nevera-style** approach (brute output + absolute traction)?
 
 **Comment your pick and your reason.** And if you want, tell me the vibe you want for the hero image—**London night, desert highway, mountain pass, or studio**—and I’ll generate a photorealistic, model-accurate **horizontal header image** (no text/logos).
+
+---
+
+*Related reads: [EV Hypercars](/articles/the-era-of-electric-hypercars-rimac-vs-lotus/) · [The Evolution of Supercars](/articles/the-evolution-of-supercars-from-classic-icons-to-future-innovations/) · [Active Aerodynamics](/articles/active-aerodynamics-when-the-car-takes-off-in-reverse/)*

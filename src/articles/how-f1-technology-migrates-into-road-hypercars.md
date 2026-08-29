@@ -123,7 +123,4 @@ And every hypercar is a delayed echo of the racetrack.
 
 ---
 
-### SEO Meta
-
-**Title:** How F1 Technology Migrates into Road Hypercars  
-**Meta description:** Discover how Formula 1 technology influences hypercars — from aerodynamics and hybrid powertrains to data systems and advanced materials.
+*Related reads: [Ferrari Enzo](/articles/ferrari-enzo-when-formula-1-technology-became-a-road-car/) · [Mercedes-AMG ONE](/articles/mercedes-amg-one-the-closest-thing-to-a-street-legal-formula-one-car/) · [Ferrari F50](/articles/ferrari-f50-formula-1-for-the-road/)*

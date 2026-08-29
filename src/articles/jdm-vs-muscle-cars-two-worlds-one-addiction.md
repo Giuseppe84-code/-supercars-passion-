@@ -198,3 +198,7 @@ If you had to pick one forever:
 * **Muscle quarter-mile king** (V8 + torque + drama)
 
 Comment your pick and your reason
+
+---
+
+*Related reads: [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/) · [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/) · [Nissan Skyline History](/articles/nissan-skyline-history/)*

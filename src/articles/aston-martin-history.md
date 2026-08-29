@@ -85,3 +85,7 @@ Over **110 years**, Aston Martin has survived seven bankruptcies, more ownership
 ---
 
 *Which is your favourite Aston Martin — the DB5, the One-77, or the Valkyrie? Let us know in the comments!*
+
+---
+
+*Related reads: [Why the Aston Martin Valkyrie Redefines Road-Legal…](/articles/aston-martin-valkyrie-when-a-road-car-is-designed-like-an-f1-prototype/) · [Aston Martin Valhalla](/articles/aston-martin-valhalla-1064bhp-and-the-most-advanced-road-car-gaydon-has-ever-built/) · [The Most Exciting Hypercars Coming in 2026](/articles/new-hypercars-2026/)*

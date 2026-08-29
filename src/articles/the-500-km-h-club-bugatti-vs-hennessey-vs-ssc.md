@@ -146,3 +146,7 @@ If you were writing the rulebook, what should count as “the real crown”?
 3. **Fastest customer-delivered car, stock spec, independent data only**
 
 Drop your definition in the comments—and tell me which car you *believe* is most likely to deliver a clean, undeniable **500 km/h+** attempt next: Chiron’s successors, the Venom F5 program, or SSC’s next run.
+
+---
+
+*Related reads: [Bugatti Tourbillon](/articles/bugatti-tourbillon/) · [Bugatti History](/articles/bugatti-history/) · [Bugatti Divo](/articles/bugatti-divo-the-art-of-cornering-at-400-km-h/)*

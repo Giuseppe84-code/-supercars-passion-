@@ -167,3 +167,7 @@ Active aero is one of the most underrated “supercar technologies,” because i
 * Or the **crazy experimental theatrics** of the Zenvo TSR-S centripetal wing?
 
 Drop a comment on the blog with your pick
+
+---
+
+*Related reads: [Pagani Hypercars](/articles/the-aerodynamics-of-a-pagani-beauty-driven-by-physics/) · [Lamborghini Huracán Performante](/articles/lamborghini-huracan-performante-the-day-lamborghini-learned-to-think-in-air/) · [Lotus Evija](/articles/lotus-evija-the-carved-by-air-electric-hypercar-that-made-2000-horsepower-feel-like-a-design-problem/)*

@@ -150,9 +150,6 @@ And in doing so, he reinvented the hypercar industry.
 
 Koenigsegg hypercars: manufacturer Koenigsegg Automotive AB; layout for all models mid-engine, rear-wheel drive; **Agera RS:** production 2015–2018, units approx. 25, engine 5.0-liter twin-turbo V8 producing 1,160 hp on standard fuel (up to 1,360 hp on E85) with 1,280 Nm of torque, 0–100 km/h in approx. 2.8 s, top speed officially recorded at 447 km/h, kerb weight approx. 1,395 kg; **Regera:** production 2016–2022, units approx. 80, engine 5.0-liter twin-turbo V8 combined with three electric motors for a total system output of approx. 1,500 hp and over 2,000 Nm of torque, single-speed Koenigsegg Direct Drive transmission, 0–100 km/h in approx. 2.8 s, top speed 410 km/h, kerb weight approx. 1,590 kg; **Jesko:** production from 2021, units approx. 125, engine 5.0-liter twin-turbo V8 producing 1,280 hp on standard fuel and up to 1,600 hp on E85 with 1,500 Nm of torque, 9-speed Light Speed Transmission, 0–100 km/h in approx. 2.5 s, top speed over 480 km/h for Jesko Absolut and approx. 410 km/h for Jesko Attack, kerb weight approx. 1,420 kg; **CC850:** production from 2023, units 70, engine 5.0-liter twin-turbo V8 producing 1,385 hp (up to 1,600 hp on E85), innovative Engage Shift System allowing manual or automatic operation, 0–100 km/h in approx. 2.7 s, top speed over 400 km/h, kerb weight approx. 1,385 kg; chassis for all models carbon fiber monocoque, body carbon composite, suspension double wishbone with adaptive dampers, brakes carbon-ceramic discs, aerodynamics active systems with varying downforce depending on variant.
 
-### SEO Meta
-
-**Title:** Koenigsegg: How One Man Reinvented the Hypercar Industry  
-**Meta description:** Discover how Christian von Koenigsegg reinvented the hypercar industry through radical engineering, efficiency, and first-principles design.
-
 ---
+
+*Related reads: [Koenigsegg Jesko Absolut](/articles/koenigsegg-jesko-absolut/) · [Koenigsegg Gemera](/articles/koenigsegg-gemera/) · [Koenigsegg CCGT+](/articles/koenigsegg-ccgt-a-tribute-to-the-le-mans-dream-that-never-raced/)*

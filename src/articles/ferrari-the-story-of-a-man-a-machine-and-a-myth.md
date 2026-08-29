@@ -131,3 +131,7 @@ As long as humans continue to seek intensity in a world that often feels flat, b
 Ferrari will not endure because it resists change, but because it understands what must never change.
 And that is why Ferrari’s story does not truly end.
 It simply continues — in metal, in motion, and in memory.
+
+---
+
+*Related reads: [Ferrari History](/articles/ferrari-history/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [Ferrari SF90 XX Stradale](/articles/ferrari-sf90-xx-stradale/)*

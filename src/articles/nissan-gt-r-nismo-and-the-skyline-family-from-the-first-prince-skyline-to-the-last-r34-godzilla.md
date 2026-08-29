@@ -156,3 +156,7 @@ NISMO isn’t just a badge—Nissan’s motorsport arm is woven through this who
 * R32 “Godzilla” Group A domination
 * R34 as the final Skyline GT-R + GT500-era icon
 * Or the modern Nissan GT-R Nismo as the ultimate evolution of the idea
+
+---
+
+*Related reads: [Buying Guide](/articles/buying-guide-how-to-import-an-original-skyline-from-japan-without-getting-burned/) · [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/) · [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/)*

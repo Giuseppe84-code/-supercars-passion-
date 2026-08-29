@@ -153,3 +153,7 @@ If you had to choose one, what matters more to you?
 * **Tech brutality + myth factor** (GT-R)
 
 Comment your pick
+
+---
+
+*Related reads: [Top 5 Rarest GT-Rs](/articles/the-5-rarest-gt-r-variants-youll-probably-never-see-in-real-life/) · [Nissan GT-R Successor](/articles/is-the-future-electric-rumors-and-truths-about-the-nissan-r36-gt-r/) · [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/)*

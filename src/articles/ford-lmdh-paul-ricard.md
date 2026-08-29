@@ -38,3 +38,7 @@ The chassis comes from Oreca, as LMDh regulations require a supplier from an app
 Ford's record at Le Mans is not a marketing line. The GT40 result in 1966 is the most retold story in endurance racing, and the GT that returned in 2016 won its class on debut. That history is an asset and a liability at once: it guarantees attention, and it sets a bar that a first-season LMDh is unlikely to clear.
 
 What March will tell us is whether the reliability is there. Everything else — the noise, the history, the shark fin — is already working.
+
+---
+
+*Related reads: [The Ford GT Legacy](/articles/ford-gt-the-full-story-from-the-gt40-mission-to-todays-track-only-mk-iv/)*

@@ -158,3 +158,7 @@ Which kind of emotion do you prefer in a hypercar?
 * **Lotus style:** design drama + driver-first intent
 
 Comment your pick
+
+---
+
+*Related reads: [Rimac Hypercars](/articles/electric-hypercars-rimac-and-the-end-of-combustion-supremacy/) · [Rimac Nevera](/articles/rimac-nevera-the-electric-hypercar-that-rewrote-the-physics-textbook/) · [Lotus Evija](/articles/lotus-evija-the-carved-by-air-electric-hypercar-that-made-2000-horsepower-feel-like-a-design-problem/)*

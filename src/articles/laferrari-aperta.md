@@ -133,6 +133,4 @@ There will not be another one like it.
 
 ---
 
- 
-
----
+*Related reads: [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [Ferrari vs Lamborghini](/articles/ferrari-vs-lamborghini-the-origin-of-a-myth/) · [The Enduring Legacy of Ferrari](/articles/ferrari-the-story-of-a-man-a-machine-and-a-myth/)*

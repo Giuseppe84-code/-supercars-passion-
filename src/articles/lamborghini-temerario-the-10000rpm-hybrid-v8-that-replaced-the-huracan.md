@@ -35,3 +35,5 @@ Early impressions suggest the Temerario's electric motors amplify rather than ta
 **Where to find official images:** Lamborghini Media Center — media.lamborghini.com (search "Temerario"). Extensive high-resolution press galleries, configurator renders and technical images are available for editorial use with credit ("Photo: Automobili Lamborghini").
 
 ---
+
+*Related reads: [Lamborghini Fenomeno Roadster](/articles/lamborghini-fenomeno-roadster-just-15-open-top-v12-hybrids-from-santagata/) · [Lamborghini Sián](/articles/lamborghini-sian/) · [Lamborghini Revuelto](/articles/lamborghini-revuelto/)*

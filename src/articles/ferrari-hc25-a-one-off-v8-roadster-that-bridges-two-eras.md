@@ -27,3 +27,5 @@ For the rest of us, the HC25 will likely live on through photographs and the occ
 *What would you commission if Ferrari handed you a blank sheet of paper? Tell us in the comments.*
 
 ---
+
+*Related reads: [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [The Enduring Legacy of Ferrari](/articles/ferrari-the-story-of-a-man-a-machine-and-a-myth/) · [Ferrari SF90 XX Stradale](/articles/ferrari-sf90-xx-stradale/)*

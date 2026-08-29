@@ -134,6 +134,4 @@ The uncomfortable truth? Both are so good that you'll spend your first month of 
 
 ---
 
- 
-
----
+*Related reads: [BMW leads a Hypercar class nobody expected it to…](/articles/wec-bmw-standings-2026/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/)*

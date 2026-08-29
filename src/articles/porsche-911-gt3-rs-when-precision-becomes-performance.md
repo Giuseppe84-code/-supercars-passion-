@@ -116,9 +116,4 @@ Porsche 911 GT3 RS: manufacturer Porsche; model 911 GT3 RS (992 generation); pro
 
 ---
 
----
-
-### SEO Meta
-
-**Title:** Porsche 911 GT3 RS: When Precision Becomes Performance  
-**Meta description:** Discover why the Porsche 911 GT3 RS is one of the most precise and respected performance cars — built for lap times, feedback, and pure engineering.
+*Related reads: [Porsche 911 GT2 RS](/articles/porsche-911-gt2-rs-the-most-extreme-interpretation-of-the-911-philosophy/) · [Porsche 911 Turbo](/articles/porsche-911-turbo-the-quiet-master-of-speed/) · [Unleashing the Porsche Carrera GT](/articles/porsche-carrera-gt-the-v10-manual-carbon-fiber-icon-that-still-feels-unreal/)*

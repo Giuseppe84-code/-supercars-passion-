@@ -134,3 +134,7 @@ If you’re hunting rare GT-R history (or just browsing listings for fun), the c
 ## 
 
 If you enjoyed this deep dive, drop a comment with your personal “white whale” GT-R—**Z-Tune, 400R, LM Limited, Nür, or a Midnight Purple III build**.
+
+---
+
+*Related reads: [The Battle of Giants](/articles/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo/) · [How Fast & Furious Elevated the Nissan Skyline…](/articles/paul-walkers-legacy-how-cinema-made-the-skyline-immortal/) · [Buying Guide](/articles/buying-guide-how-to-import-an-original-skyline-from-japan-without-getting-burned/)*

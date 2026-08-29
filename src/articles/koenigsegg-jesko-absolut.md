@@ -99,3 +99,7 @@ Christian von Koenigsegg started in a barn. Thirty years later, he may be buildi
 ---
 
 *Could the Jesko Absolut really reach 330 mph? Would you want to be in it if it did? Let us know in the comments!*
+
+---
+
+*Related reads: [How Koenigsegg Redefined the Hypercar Industry](/articles/koenigsegg-how-one-man-reinvented-the-hypercar-industry/) · [Koenigsegg Gemera](/articles/koenigsegg-gemera/) · [Koenigsegg CCGT+](/articles/koenigsegg-ccgt-a-tribute-to-the-le-mans-dream-that-never-raced/)*

@@ -171,6 +171,4 @@ Do it right, and you'll have a car with a story worth telling. Do it wrong, and 
 
 ---
 
- 
-
----
+*Related reads: [What It Actually Costs to Own a Supercar for One…](/articles/supercar-ownership-costs/) · [Buying Guide](/articles/buying-guide-how-to-import-an-original-skyline-from-japan-without-getting-burned/) · [Best Used Sports Cars Under $30,000 in 2026](/articles/best-used-sports-cars-under-30k/)*

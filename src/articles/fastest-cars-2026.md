@@ -156,3 +156,7 @@ The speed war has never been more exciting. And it is only just getting started.
 ---
 
 *Which car on this list would you most want to drive? Let us know in the comments!*
+
+---
+
+*Related reads: [Porsche Mission X](/articles/porsche-mission-x-the-electric-hypercar-aiming-to-become-the-new-918/) · [Pininfarina Battista](/articles/pininfarina-battista-when-silence-became-the-new-power/) · [The Most Exciting Hypercars Coming in 2026](/articles/new-hypercars-2026/)*

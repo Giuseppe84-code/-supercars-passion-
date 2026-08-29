@@ -133,7 +133,4 @@ Pagani hypercars: manufacturer Pagani Automobili; layout for all models mid-engi
 
 ---
 
-### SEO Meta
-
-**Title:** The Aerodynamics of a Pagani: Beauty Driven by Physics  
-**Meta description:** Discover how Pagani hypercars transform aerodynamics into art — where airflow, physics, and beauty merge into functional design.
+*Related reads: [Pagani Utopia](/articles/pagani-utopia/) · [How Pagani and Koenigsegg Redefined Supercar…](/articles/pagani-and-koenigsegg-the-artisans-who-challenged-the-giants/) · [Active Aerodynamics](/articles/active-aerodynamics-when-the-car-takes-off-in-reverse/)*

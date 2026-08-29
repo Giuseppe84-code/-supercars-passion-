@@ -90,6 +90,4 @@ The most important thing a supercar driver can do is exactly what the manufactur
 
 ---
 
- 
-
----
+*Related reads: [Why Hypercars Are the New Investment Trend](/articles/why-hypercars-are-becoming-alternative-investment-assets/) · [Top 5 Signals for Future Car Collectibles](/articles/supercars-as-investments-which-models-to-buy-today/) · [What It Actually Costs to Own a Supercar for One…](/articles/supercar-ownership-costs/)*

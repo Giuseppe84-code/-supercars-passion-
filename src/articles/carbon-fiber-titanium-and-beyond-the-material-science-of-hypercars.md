@@ -149,7 +149,4 @@ It is better materials.
 
 ---
 
-### SEO Meta
-
-**Title:** Carbon Fiber, Titanium and Beyond: The Material Science of Hypercars
-**Meta description:** Discover how carbon fiber, titanium, ceramics, and advanced composites define the performance, safety, and future of hypercars.
+*Related reads: [Unleashing the Porsche Carrera GT](/articles/porsche-carrera-gt-the-v10-manual-carbon-fiber-icon-that-still-feels-unreal/) · [Bugatti Chiron](/articles/why-the-bugatti-chiron-is-closer-to-aerospace-than-to-automotive-engineering/) · [Misunderstood Supercars History](/articles/the-5-most-underrated-supercars-in-history/)*

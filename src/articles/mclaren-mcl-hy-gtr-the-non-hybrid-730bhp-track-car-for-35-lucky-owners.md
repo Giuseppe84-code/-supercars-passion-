@@ -35,3 +35,5 @@ The GTR underlines something important about where the hypercar world is heading
 **Where to find official images:** McLaren press site — cars.mclaren.press and mclaren.com/racing. The MCL-HY and MCL-HY GTR reveal galleries (4 May 2026) include high-resolution editorial images. Use with the credit McLaren requires (typically "Image: McLaren").
 
 ---
+
+*Related reads: [McLaren MCL-HY](/articles/mclaren-mcl-hy-woking-returns-to-le-mans-with-a-707bhp-hybrid-hypercar/) · [How LaFerrari, P1 & 918 Spyder Revolutionized…](/articles/the-hypercar-holy-trinity-10-years-later/) · [McLaren P1](/articles/mclaren-p1-the-hybrid-hypercar-that-turned-instant-torque-active-aero-into-a-new-definition-of-fast/)*
