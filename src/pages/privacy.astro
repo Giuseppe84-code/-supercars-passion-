@@ -1,0 +1,108 @@
+---
+import Base from '../layouts/Base.astro';
+
+// Kept in one place so the page and the <meta> tag can never drift apart.
+const updated = '29 August 2026';
+---
+<Base
+  title="Privacy & Cookies — Supercars Passion"
+  description="What Supercars Passion measures, what it does not, and how to reach us. No cookies, no accounts, no advertising."
+>
+  <div class="wrap">
+    <article class="post">
+      <a href="/" class="back">&larr; Back to the front page</a>
+      <h1>Privacy &amp; <em>Cookies</em></h1>
+      <p class="byline">Last updated {updated}</p>
+
+      <div class="body">
+        <p class="tldr">
+          <strong>The short version.</strong> This site sets no cookies. There are no accounts,
+          no comments, no mailing list and no advertising. Nothing you read here is used to
+          build a profile of you, and nothing about you is sold or handed to data brokers.
+        </p>
+
+        <h2>Who runs this site</h2>
+        <p>
+          Supercars Passion is an independent publication written and run by Giuseppe DiZillo.
+          For anything on this page — including a request to see, correct or erase whatever data
+          concerns you — write to <a href="mailto:postagiuseppe84@gmail.com">postagiuseppe84@gmail.com</a>.
+        </p>
+
+        <h2>What is measured</h2>
+        <p>
+          Visits are counted with <strong>Cloudflare Web Analytics</strong>. It was chosen
+          precisely because it does its job without following anybody: it sets no cookies, does
+          not fingerprint your browser, and cannot track you from one website to the next.
+        </p>
+        <p>
+          What it records is the page you asked for, the page that sent you here, the broad type
+          of browser and device you used, and the country the request came from. These are
+          aggregated into counts. There is no way, from that data, to work out who you are or
+          what else you read.
+        </p>
+
+        <h2>Server logs</h2>
+        <p>
+          The site is hosted by <strong>Netlify</strong>. Like every web server, theirs keeps
+          short-lived technical logs of the requests it answers, and those logs include the IP
+          address the request came from. This is the ordinary machinery of delivering a web page
+          and of keeping the site up under attack; the legal basis is legitimate interest. Those
+          logs are Netlify's, they are not read for any editorial purpose, and they are not
+          combined with the analytics above.
+        </p>
+
+        <h2>What this site does not do</h2>
+        <ul>
+          <li>It sets no cookies, so there is nothing for you to accept or refuse.</li>
+          <li>It carries no advertising and no advertising trackers.</li>
+          <li>There are no user accounts and no login.</li>
+          <li>There is no comment section, so no comment data exists.</li>
+          <li>There is no newsletter and no mailing list.</li>
+          <li>
+            Fonts and photographs are served from this site's own domain. They are not loaded
+            from Google Fonts or an outside image host, so browsing here does not quietly
+            announce your visit to a third party.
+          </li>
+        </ul>
+
+        <h2>Third parties</h2>
+        <p>
+          Two companies necessarily handle your request in order for this page to reach you:
+          <strong>Netlify</strong>, which hosts and serves the site, and <strong>Cloudflare</strong>,
+          which receives the analytics beacon. Those are the only outside services this site loads.
+        </p>
+        <p>
+          The Wire, and the links inside articles, point to other publishers. The moment you follow
+          one you are on their website under their rules — what they collect is governed by their
+          privacy policy, not by this one.
+        </p>
+
+        <h2>Your rights</h2>
+        <p>
+          Under the GDPR you may ask for access to your personal data, for its correction or
+          erasure, for processing to be restricted, and for a copy of it in portable form; you may
+          also object to processing carried out on the basis of legitimate interest. Write to the
+          address above and you will get an answer.
+        </p>
+        <p>
+          Given how little this site collects, in most cases the honest answer will be that there
+          is nothing held that identifies you. You also have the right to complain to your national
+          data protection authority — in Italy, the Garante per la protezione dei dati personali.
+        </p>
+
+        <h2>Changes to this page</h2>
+        <p>
+          If what the site collects ever changes — advertising, comments and a mailing list are all
+          things a publication may one day add — this page is updated before that goes live, and
+          the date at the top changes with it.
+        </p>
+      </div>
+    </article>
+  </div>
+
+  <style>
+    .post .body ul{margin:0 0 1.35rem;padding-left:1.15rem}
+    .post .body li{margin-bottom:.5rem}
+    .tldr{border-left:2px solid var(--brass-dim);padding-left:1.2rem;color:var(--bone)}
+  </style>
+</Base>

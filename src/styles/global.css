@@ -98,6 +98,8 @@ article.piece p{margin:0;color:var(--muted);font-size:.93rem}
 
 footer.site{border-top:1px solid var(--rule);padding-block:2.2rem 3rem;color:var(--muted)}
 .foot{display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between;font-family:var(--data);font-size:.58rem;letter-spacing:.12em;text-transform:uppercase;line-height:1.9}
+.foot a{color:var(--bone)}
+.foot a:hover{color:var(--brass)}
 .reveal{opacity:0;transform:translateY(14px);animation:rise .75s cubic-bezier(.22,.68,.35,1) forwards}
 .reveal:nth-child(2){animation-delay:.1s}
 @keyframes rise{to{opacity:1;transform:none}}
