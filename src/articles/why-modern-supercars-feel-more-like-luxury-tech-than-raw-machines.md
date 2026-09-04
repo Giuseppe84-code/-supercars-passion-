@@ -4,6 +4,11 @@ lede: "Modern supercars are faster, smarter, and more advanced than ever before.
 marque: "Engineering & Technology"
 kicker: "Future of Performance"
 published: 2026-03-22
+image: "/img/why-modern-supercars-feel-more-like-luxury-tech-than-raw-machines.jpg"
+imageAlt: "Ferrari Roma"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2024 Ferrari Roma"
 tags: ["automotive engineering", "digital supercars", "driving experience", "Exotic Cars", "Hypercars", "luxury performance cars"]
 legacySlug: "why-modern-supercars-feel-more-like-luxury-tech-than-raw-machines"
 draft: false

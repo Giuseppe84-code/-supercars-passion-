@@ -4,6 +4,11 @@ lede: "The story of Lamborghini begins with an insult. One man, one meeting, one
 marque: "Legends"
 kicker: "Ferruccio Lamborghini"
 published: 2026-03-01
+image: "/img/lamborghini-history.jpg"
+imageAlt: "Lamborghini Countach"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "1989 Lamborghini Countach 25th Anniversary"
 tags: ["Ferruccio Lamborghini", "Italian Supercar", "lamborghini", "Lamborghini Aventador", "Lamborghini Countach", "Lamborghini Diablo"]
 legacySlug: "lamborghini-history"
 draft: false

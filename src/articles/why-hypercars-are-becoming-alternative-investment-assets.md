@@ -4,6 +4,11 @@ lede: "Introduction — When Performance Becomes Value For decades, hypercars we
 marque: "Market & Investment"
 kicker: "alternative investments"
 published: 2026-01-14
+image: "/img/why-hypercars-are-becoming-alternative-investment-assets.jpg"
+imageAlt: "Ferrari LaFerrari"
+imageCredit: "Axion23"
+imageLicense: "CC BY 2.0"
+imageNote: "LaFerrari in Beverly Hills"
 tags: ["alternative investments", "asset diversification", "automotive investment", "collectible cars", "collector market", "future of hypercars"]
 legacySlug: "why-hypercars-are-becoming-alternative-investment-assets"
 draft: false

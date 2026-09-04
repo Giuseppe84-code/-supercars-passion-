@@ -4,6 +4,11 @@ lede: "Why Modern Supercars Are No Longer Just About Speed For decades, supercar
 marque: "Guides"
 kicker: "car culture"
 published: 2026-01-27
+image: "/img/why-modern-supercars-are-no-longer-just-about-speed.jpg"
+imageAlt: "McLaren 720S"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2018 McLaren 720S"
 tags: ["car culture", "driving experience", "hybrid supercars", "modern supercars", "supercar technology", "Supercars"]
 legacySlug: "why-modern-supercars-are-no-longer-just-about-speed"
 draft: false

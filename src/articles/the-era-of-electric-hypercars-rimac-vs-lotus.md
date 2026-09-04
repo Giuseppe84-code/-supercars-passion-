@@ -4,6 +4,11 @@ lede: "Is engine sound disappearing—and can emotion survive without it? For a 
 marque: "Engineering & Technology"
 kicker: "Future of Performance"
 published: 2026-02-12
+image: "/img/the-era-of-electric-hypercars-rimac-vs-lotus.jpg"
+imageAlt: "Rimac Concept One"
+imageCredit: "Oleg Yunakov"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Rimac Concept One -"
 tags: ["Aerodynamics", "automotive", "Automotive Technology", "brad-pitt", "cars", "Carved By Air"]
 legacySlug: "the-era-of-electric-hypercars-rimac-vs-lotus"
 draft: false

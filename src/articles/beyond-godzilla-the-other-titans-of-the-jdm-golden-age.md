@@ -4,6 +4,11 @@ lede: "When people think of 1990s Japanese performance, the Nissan Skyline GT-R 
 marque: "Legends"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/beyond-godzilla-the-other-titans-of-the-jdm-golden-age.jpg"
+imageAlt: "Toyota Supra A80"
+imageCredit: "Dinkun Chen"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "TOYOTA SUPRA (A80) HONG KONG"
 tags: ["2JZ-GTE", "90s Performance Cars", "automotive engineering", "Ayrton Senna", "blog", "Car History"]
 legacySlug: "beyond-godzilla-the-other-titans-of-the-jdm-golden-age"
 draft: false

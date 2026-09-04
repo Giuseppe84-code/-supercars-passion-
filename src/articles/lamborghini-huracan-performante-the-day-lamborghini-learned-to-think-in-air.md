@@ -4,6 +4,11 @@ lede: "Introduction — From Theater to Physics For most of its modern history, 
 marque: "Engineering & Technology"
 kicker: "Supercars"
 published: 2026-01-15
+image: "/img/lamborghini-huracan-performante-the-day-lamborghini-learned-to-think-in-air.jpg"
+imageAlt: "Lamborghini Huracán Performante"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Lamborghini Huracan Performante Spyder"
 tags: ["active aerodynamics", "aerodynamic torque vectoring", "ala system", "automotive innovation", "lamborghini", "lamborghini huracan performante"]
 legacySlug: "lamborghini-huracan-performante-the-day-lamborghini-learned-to-think-in-air"
 draft: false

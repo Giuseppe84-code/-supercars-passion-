@@ -4,6 +4,11 @@ lede: "Because “Godzilla” didn’t just come in one flavor—some versions w
 marque: "Legends"
 kicker: "Market & Investment"
 published: 2026-02-12
+image: "/img/the-5-rarest-gt-r-variants-youll-probably-never-see-in-real-life.jpg"
+imageAlt: "Nissan Skyline GT-R V-Spec"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Nissan Skyline GT-R V-Spec II"
 tags: ["Auction Prices", "books", "Collector Cars", "GT-R History", "Japanese Performance", "jdm legends"]
 legacySlug: "the-5-rarest-gt-r-variants-youll-probably-never-see-in-real-life"
 draft: false

@@ -4,6 +4,11 @@ lede: "McLaren is one of the most famous names in the world of cars and motorspo
 marque: "Legends"
 kicker: "british supercar"
 published: 2026-03-01
+image: "/img/mclaren-history.jpg"
+imageAlt: "McLaren F1"
+imageCredit: "MrWalkr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "A Silver McLaren F1"
 tags: ["british supercar", "Bruce McLaren", "Car Enthusiast", "formula 1", "hypercar", "Le Mans Winner"]
 legacySlug: "mclaren-history"
 draft: false

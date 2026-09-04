@@ -4,6 +4,11 @@ lede: "Introduction: When a Car Stops Being a Car The Bugatti Chiron is often de
 marque: "bugatti"
 kicker: "Engineering & Technology"
 published: 2026-01-14
+image: "/img/why-the-bugatti-chiron-is-closer-to-aerospace-than-to-automotive-engineering.jpg"
+imageAlt: "Bugatti Chiron"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Bugatti Chiron"
 tags: ["active aerodynamics", "advanced materials", "aerospace engineering", "automotive tecnology", "bugatti chiron", "carbon fiber monocoque"]
 legacySlug: "why-the-bugatti-chiron-is-closer-to-aerospace-than-to-automotive-engineering"
 draft: false

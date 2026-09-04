@@ -4,6 +4,11 @@ lede: "What the “Green Hell” really is—and how “sub-7 minutes” became 
 marque: "Engineering & Technology"
 kicker: "Events & Culture"
 published: 2026-02-12
+image: "/img/why-the-nurburgring-is-every-automakers-obsession.jpg"
+imageAlt: "Nürburgring Nordschleife"
+imageCredit: "BedaNo1"
+imageLicense: "CC BY-SA 3.0"
+imageNote: "Nordschleife Brünnchen"
 tags: ["911 GT3", "918 Spyder", "Aerodynamics", "AMG GT Black Series", "AMG ONE", "automotive"]
 legacySlug: "why-the-nurburgring-is-every-automakers-obsession"
 draft: false

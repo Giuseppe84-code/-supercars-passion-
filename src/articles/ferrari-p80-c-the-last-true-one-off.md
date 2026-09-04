@@ -4,6 +4,11 @@ lede: "Introduction — A Ferrari That Was Never Meant to Be Seen The Ferrari P8
 marque: "ferrari"
 kicker: "Hypercars"
 published: 2026-01-15
+image: "/img/ferrari-p80-c-the-last-true-one-off.jpg"
+imageAlt: "Ferrari P80/C"
+imageCredit: "FrDr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Museo Enzo Ferrari Modena"
 tags: ["aerodynamic design", "automotive innovation", "automotive sculpture", "endurance prototype", "ferrari p80 c", "ferrari prototype"]
 legacySlug: "ferrari-p80-c-the-last-true-one-off"
 draft: false

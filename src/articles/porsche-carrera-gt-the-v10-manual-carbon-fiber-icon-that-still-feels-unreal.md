@@ -4,6 +4,11 @@ lede: "Some supercars impress you with numbers. The Porsche Carrera GT impresses
 marque: "Legends"
 kicker: "Supercars"
 published: 2026-02-12
+image: "/img/porsche-carrera-gt-the-v10-manual-carbon-fiber-icon-that-still-feels-unreal.jpg"
+imageAlt: "Porsche Carrera GT"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Porsche Carrera GT"
 tags: ["2000s Supercars", "bmw", "books", "carbon fiber", "Carrera GT", "cars"]
 legacySlug: "porsche-carrera-gt-the-v10-manual-carbon-fiber-icon-that-still-feels-unreal"
 draft: false

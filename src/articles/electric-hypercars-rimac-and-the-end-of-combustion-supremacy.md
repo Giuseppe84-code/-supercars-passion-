@@ -4,6 +4,11 @@ lede: "Introduction — When Electricity Becomes Dominant For more than a centur
 marque: "Engineering & Technology"
 kicker: "Future of Performance"
 published: 2026-01-14
+image: "/img/electric-hypercars-rimac-and-the-end-of-combustion-supremacy.jpg"
+imageAlt: "Rimac Nevera"
+imageCredit: "MrWalkr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2021 Rimac Nevera"
 tags: ["automotive innovation", "battery technology", "cyber physical systems", "electric hypercars", "electric motors", "electric vehicles"]
 legacySlug: "electric-hypercars-rimac-and-the-end-of-combustion-supremacy"
 draft: false

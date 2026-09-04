@@ -4,6 +4,11 @@ lede: "How Fast & Furious turned a Japanese sports car into a global icon and bl
 marque: "Events & Culture"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/paul-walkers-legacy-how-cinema-made-the-skyline-immortal.jpg"
+imageAlt: "Nissan Skyline GT-R R33"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Nissan Skyline GT-R"
 tags: ["2000s Car Culture", "Automotive Icon", "cars", "Collector Cars", "Fast and Furious", "film"]
 legacySlug: "paul-walkers-legacy-how-cinema-made-the-skyline-immortal"
 draft: false

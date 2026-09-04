@@ -4,6 +4,11 @@ lede: "On September 2, 2019, a Modified Chiron Did Something Nobody Had Ever Don
 marque: "bugatti"
 kicker: "Hypercars"
 published: 2026-03-03
+image: "/img/bugatti-chiron-super-sport-300.jpg"
+imageAlt: "Bugatti Chiron Super Sport"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2022 Bugatti Chiron Super Sport WRE"
 tags: ["1600hp Car", "Andy Wallace Bugatti", "Bugatti 300 mph", "Bugatti Chiron Super Sport 300+", "Bugatti Hypercar", "Bugatti limited edition"]
 legacySlug: "bugatti-chiron-super-sport-300"
 draft: false

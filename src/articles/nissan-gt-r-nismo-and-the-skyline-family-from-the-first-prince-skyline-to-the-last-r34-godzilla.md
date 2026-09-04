@@ -4,6 +4,11 @@ lede: "The Skyline story is one of the most unusual success arcs in automotive h
 marque: "Legends"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/nissan-gt-r-nismo-and-the-skyline-family-from-the-first-prince-skyline-to-the-last-r34-godzilla.jpg"
+imageAlt: "Nissan Skyline GT-R R34"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "1999 Nissan Skyline GT-R V-Spec I"
 tags: ["ATTESA E-TS", "automotive", "Bathurst", "cars", "Godzilla", "Group A"]
 legacySlug: "nissan-gt-r-nismo-and-the-skyline-family-from-the-first-prince-skyline-to-the-last-r34-godzilla"
 draft: false

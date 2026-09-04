@@ -4,6 +4,11 @@ lede: "The McLaren P1 wasn’t built to be “the next fast thing.” It was bui
 marque: "Design & Philosophy"
 kicker: "Supercars"
 published: 2026-02-12
+image: "/img/mclaren-p1-the-hybrid-hypercar-that-turned-instant-torque-active-aero-into-a-new-definition-of-fast.jpg"
+imageAlt: "McLaren P1"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "McLaren P1"
 tags: ["0-100 2.8s", "2010s Supercars", "350 km/h", "active aerodynamics", "automotive", "carbon fiber monocoque"]
 legacySlug: "mclaren-p1-the-hybrid-hypercar-that-turned-instant-torque-active-aero-into-a-new-definition-of-fast"
 draft: false

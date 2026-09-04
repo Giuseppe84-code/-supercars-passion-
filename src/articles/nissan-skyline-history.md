@@ -4,6 +4,11 @@ lede: "Few cars in history have achieved the legendary status of the Nissan Skyl
 marque: "Legends"
 kicker: "Other Brands"
 published: 2026-03-01
+image: "/img/nissan-skyline-history.jpg"
+imageAlt: "Nissan Skyline 2000GT-R"
+imageCredit: "TTTNIS"
+imageLicense: "CC0"
+imageNote: "1970 Nissan Skyline 2000GT-R"
 tags: ["fast and furious cars", "Godzilla Car", "Japanese Sports Car", "JDM Car", "Nissan GT-R", "Nissan History"]
 legacySlug: "nissan-skyline-history"
 draft: false

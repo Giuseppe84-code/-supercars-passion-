@@ -4,6 +4,11 @@ lede: "Introduction — A New Definition of Ferrari Performance The Ferrari SF90
 marque: "Future of Performance"
 kicker: "Hypercars"
 published: 2026-01-15
+image: "/img/ferrari-sf90-stradale-when-hybrid-becomes-hypercar.jpg"
+imageAlt: "Ferrari SF90 Stradale"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2022 Ferrari SF90 Spider"
 tags: ["automotive innovation", "automotive software", "electric motors", "ferrari", "ferrari sf90 stradale", "hybrid hypercar"]
 legacySlug: "ferrari-sf90-stradale-when-hybrid-becomes-hypercar"
 draft: false

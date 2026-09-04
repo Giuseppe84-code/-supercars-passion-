@@ -4,6 +4,11 @@ lede: "Introduction — Performance Without Noise The Porsche 911 Turbo has neve
 marque: "Supercars"
 kicker: "all wheel drive performance"
 published: 2026-01-15
+image: "/img/porsche-911-turbo-the-quiet-master-of-speed.jpg"
+imageAlt: "Porsche 911 Turbo"
+imageCredit: "Alexander Migl"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Porsche 992 Turbo S"
 tags: ["all wheel drive performance", "automotive engineering", "car culture", "everyday supercar", "grand tourer", "high performance cars"]
 legacySlug: "porsche-911-turbo-the-quiet-master-of-speed"
 draft: false

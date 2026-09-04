@@ -4,6 +4,11 @@ lede: "It’s time to give justice to the misunderstood masterpieces Not every g
 marque: "Engineering & Technology"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/the-5-most-underrated-supercars-in-history.jpg"
+imageAlt: "Honda NSX"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Honda NSX"
 tags: ["Analog Supercars", "Automotive Legends", "carbon fiber", "Collector Cars", "Forgotten Supercars", "Gumpert Apollo"]
 legacySlug: "the-5-most-underrated-supercars-in-history"
 draft: false

@@ -4,6 +4,11 @@ lede: "Bugatti is not just a car brand. It is a philosophy. A belief that engine
 marque: "Legends"
 kicker: "bugatti"
 published: 2026-03-01
+image: "/img/bugatti-history.jpg"
+imageAlt: "Bugatti Type 57"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "1937 Bugatti Type 57SC Atlantic"
 tags: ["bugatti", "Bugatti 1000hp", "Bugatti Atlantic", "bugatti chiron", "Bugatti History", "Bugatti Molsheim"]
 legacySlug: "bugatti-history"
 draft: false

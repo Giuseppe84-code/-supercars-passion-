@@ -4,6 +4,11 @@ lede: "The McLaren Speedtail isn’t a “track weapon” in the usual sense. It
 marque: "Hypercars"
 kicker: "Market & Investment"
 published: 2026-02-12
+image: "/img/mclaren-speedtail-2019-the-hyper-gt-that-chased-250-mph-with-science-not-spoilers.jpg"
+imageAlt: "McLaren Speedtail"
+imageCredit: "Alexander Migl"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "McLaren Speedtail Motorworld Munich"
 tags: ["250 mph", "403 km/h", "Aerodynamics", "art", "automotive", "Central Driving Position"]
 legacySlug: "mclaren-speedtail-2019-the-hyper-gt-that-chased-250-mph-with-science-not-spoilers"
 draft: false

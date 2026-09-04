@@ -4,6 +4,11 @@ lede: "Can you really use 600+ horsepower every day? 911 Turbo S, Audi R8, McLar
 marque: "Design & Philosophy"
 kicker: "mclaren"
 published: 2026-02-12
+image: "/img/supercar-daily-driver-dream-or-reality.jpg"
+imageAlt: "Porsche 911 Carrera"
+imageCredit: "Matti Blume"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Porsche 911 No 1000000, 70 Years Porsche Sports Car, Berlin"
 tags: ["600 HP", "Audi R8", "AWD Supercar", "bmw", "Car Lifestyle", "car-reviews"]
 legacySlug: "supercar-daily-driver-dream-or-reality"
 draft: false

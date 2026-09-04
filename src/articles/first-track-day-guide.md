@@ -4,6 +4,11 @@ lede: "The Most Fun You Can Have Legally. Here's How Not to Ruin It."
 marque: "Guides"
 kicker: "brake fluid track day"
 published: 2026-03-03
+image: "/img/first-track-day-guide.jpg"
+imageAlt: "Circuit de Spa-Francorchamps"
+imageCredit: "FrDr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Circuit de Spa-Francorchamps"
 tags: ["brake fluid track day", "Chin Motorsports", "first track day", "how to drive on a track", "novice track day", "racing circuit driving"]
 legacySlug: "first-track-day-guide"
 draft: false

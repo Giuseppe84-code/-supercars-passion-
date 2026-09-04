@@ -4,6 +4,11 @@ lede: "Introduction — A Road Car Built with Racing Intent Most supercars are f
 marque: "Supercars"
 kicker: "active aerodynamics"
 published: 2026-01-15
+image: "/img/ferrari-488-pista-when-ferrari-turned-a-supercar-into-a-weapon.jpg"
+imageAlt: "Ferrari 488 Pista"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Ferrari 488 Pista"
 tags: ["active aerodynamics", "carbon fiber", "ferrari", "ferrari 488 pista", "ferrari pista", "lightweight supercar"]
 legacySlug: "ferrari-488-pista-when-ferrari-turned-a-supercar-into-a-weapon"
 draft: false

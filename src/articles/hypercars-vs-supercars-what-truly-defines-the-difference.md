@@ -4,6 +4,11 @@ lede: "Introduction — A Difference Beyond Speed Hypercars and supercars are of
 marque: "Reviews & Comparisons"
 kicker: "automotive categories"
 published: 2026-01-14
+image: "/img/hypercars-vs-supercars-what-truly-defines-the-difference.jpg"
+imageAlt: "Bugatti Veyron"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Bugatti Veyron"
 tags: ["automotive categories", "automotive history", "automotive innovation", "car culture", "Design & Philosophy", "engineering philosophy"]
 legacySlug: "hypercars-vs-supercars-what-truly-defines-the-difference"
 draft: false

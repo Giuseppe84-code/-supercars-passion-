@@ -4,6 +4,11 @@ lede: "There is a small town in the Parma hills of northern Italy called Varano 
 marque: "Engineering & Technology"
 kicker: "Other Brands"
 published: 2026-03-01
+image: "/img/dallara-stradale.jpg"
+imageAlt: "Dallara Stradale"
+imageCredit: "Vauxford"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2019 Dallara Stradale 2.3 Front"
 tags: ["400hp sports car", "barchetta", "carbon fiber road car", "Colin Chapman", "Dallara", "Dallara EXP"]
 legacySlug: "dallara-stradale"
 draft: false

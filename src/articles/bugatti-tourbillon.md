@@ -4,6 +4,11 @@ lede: "The Bugatti Tourbillon is not just a new car. It is a new era. With 1,800
 marque: "Hypercars"
 kicker: "$4 Million Car"
 published: 2026-03-01
+image: "/img/bugatti-tourbillon.jpg"
+imageAlt: "Bugatti Tourbillon"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2024 Bugatti Tourbillon"
 tags: ["$4 Million Car", "1800hp Car", "bugatti", "Bugatti 2024", "Bugatti Hypercar", "Bugatti Tourbillon"]
 legacySlug: "bugatti-tourbillon"
 draft: false

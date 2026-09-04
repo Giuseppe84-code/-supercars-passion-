@@ -4,6 +4,11 @@ lede: "Why Nissan’s twin-turbo inline-six became indestructible—and why tune
 marque: "Engineering & Technology"
 kicker: "Legends"
 published: 2026-02-12
+image: "/img/rb26dett-anatomy-of-the-engine-that-built-a-legend.jpg"
+imageAlt: "Nissan RB26DETT engine"
+imageCredit: "Guyon Cumby"
+imageLicense: "CC BY 2.0"
+imageNote: "1998 Nissan Stagea Autech Version 260RS WGNC34-106592 -"
 tags: ["1000 HP Build", "Analog Performance", "Engine Anatomy", "Forged Crankshaft", "Godzilla GT-R", "High Boost Builds"]
 legacySlug: "rb26dett-anatomy-of-the-engine-that-built-a-legend"
 draft: false

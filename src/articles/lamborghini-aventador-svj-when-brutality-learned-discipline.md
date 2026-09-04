@@ -4,6 +4,11 @@ lede: "Introduction — The Last Pure V12 Lamborghini The Aventador SVJ is not j
 marque: "Hypercars"
 kicker: "Supercars"
 published: 2026-01-15
+image: "/img/lamborghini-aventador-svj-when-brutality-learned-discipline.jpg"
+imageAlt: "Lamborghini Aventador SVJ"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2021 Lamborghini Aventador SVJ 63 Edition Roadster"
 tags: ["active aerodynamics", "ala 2.0", "carbon fiber monocoque", "lamborghini", "lamborghini aventador svj", "naturally aspirated v12"]
 legacySlug: "lamborghini-aventador-svj-when-brutality-learned-discipline"
 draft: false

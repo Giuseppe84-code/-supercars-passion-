@@ -4,6 +4,11 @@ lede: "Some of the most compelling stories in motorsport are about the cars that
 marque: "Brands"
 kicker: "Design & Philosophy"
 published: 2026-05-22
+image: "/img/koenigsegg-ccgt-a-tribute-to-the-le-mans-dream-that-never-raced.jpg"
+imageAlt: "Koenigsegg CCGT"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Koenigsegg CCX"
 tags: ["CCGT", "CCGT+", "CCX", "christian von koenigsegg", "GT1", "koenigsegg"]
 legacySlug: "koenigsegg-ccgt-a-tribute-to-the-le-mans-dream-that-never-raced"
 draft: false

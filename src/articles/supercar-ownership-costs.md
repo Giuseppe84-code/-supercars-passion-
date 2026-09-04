@@ -4,6 +4,11 @@ lede: "The Purchase Price Is Just the Beginning. Here Is the Full, Uncomfortable
 marque: "Guides"
 kicker: "Bugatti Chiron maintenance cost"
 published: 2026-03-03
+image: "/img/supercar-ownership-costs.jpg"
+imageAlt: "Ferrari 458 Italia"
+imageCredit: "Dinkun Chen"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "FERRARI 458 ITALIA China"
 tags: ["Bugatti Chiron maintenance cost", "Bugatti Flying Doctor", "carbon ceramic brakes cost", "cost of owning a supercar", "exotic car maintenance", "Ferrari 488 ownership costs"]
 legacySlug: "supercar-ownership-costs"
 draft: false

@@ -4,6 +4,11 @@ lede: "Few names in the automotive world carry the weight of Porsche. For over 7
 marque: "Legends"
 kicker: "Car History"
 published: 2026-03-01
+image: "/img/porsche-history.jpg"
+imageAlt: "Porsche 356"
+imageCredit: "Matti Blume"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Porsche 356 No. 1 Roadster, 70 Years Porsche Sports Car, Berlin"
 tags: ["Car History", "Ferdinand Porsche", "German Supercar", "hypercar", "Le Mans", "porsche"]
 legacySlug: "porsche-history"
 draft: false

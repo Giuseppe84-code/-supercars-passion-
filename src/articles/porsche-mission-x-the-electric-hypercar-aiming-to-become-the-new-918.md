@@ -4,6 +4,11 @@ lede: "Porsche has electrified the masses with the Taycan, the Macan and the Cay
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-05-21
+image: "/img/porsche-mission-x-the-electric-hypercar-aiming-to-become-the-new-918.jpg"
+imageAlt: "Porsche Mission X"
+imageCredit: "Alexander-93"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Porsche Mission X IAA 2023"
 tags: ["900-volt", "918 Spyder", "electric hypercar", "ev", "Mission X", "Nürburgring"]
 legacySlug: "porsche-mission-x-the-electric-hypercar-aiming-to-become-the-new-918"
 draft: false

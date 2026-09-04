@@ -4,6 +4,11 @@ lede: "Chiron Super Sport 300+ vs Venom F5 vs Tuatara — who really holds the t
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-02-12
+image: "/img/the-500-km-h-club-bugatti-vs-hennessey-vs-ssc.jpg"
+imageAlt: "Hennessey Venom F5"
+imageCredit: "Matti Blume"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Hennessey Venom F5, GIMS 2018, Le Grand-Saconnex"
 tags: ["300 mph", "500 km/h Club", "Aerodynamics", "bugatti", "cars", "Chiron Super Sport 300+"]
 legacySlug: "the-500-km-h-club-bugatti-vs-hennessey-vs-ssc"
 draft: false

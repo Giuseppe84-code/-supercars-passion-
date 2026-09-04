@@ -4,6 +4,11 @@ lede: "The Aston Martin Valkyrie isn’t “inspired by Formula 1.” It’s clo
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-02-12
+image: "/img/aston-martin-valkyrie-when-a-road-car-is-designed-like-an-f1-prototype.jpg"
+imageAlt: "Aston Martin Valkyrie"
+imageCredit: "MrWalkr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Aston Martin Valkyrie"
 tags: ["11100 rpm", "1160 bhp", "active aerodynamics", "Adrian Newey", "Aston Martin", "Carbon Fibre"]
 legacySlug: "aston-martin-valkyrie-when-a-road-car-is-designed-like-an-f1-prototype"
 draft: false

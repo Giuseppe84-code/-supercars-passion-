@@ -5,6 +5,11 @@ marque: "WEC"
 kicker: "Standings"
 serial: "2026"
 published: 2026-08-18
+image: "/img/wec-bmw-standings-2026.jpg"
+imageAlt: "BMW M Hybrid V8"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2024 BMW M Hybrid V8 Show Car"
 readout:
   - value: "P1"
     label: "Drivers"
