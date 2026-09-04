@@ -4,6 +4,11 @@ lede: "Ferrari is not merely a car manufacturer. It is a cultural phenomenon, a 
 marque: "Legends"
 kicker: "Automotive culture"
 published: 2026-01-15
+image: "/img/ferrari-the-story-of-a-man-a-machine-and-a-myth.jpg"
+imageAlt: "Enzo Ferrari"
+imageCredit: "TTTNIS"
+imageLicense: "CC0"
+imageNote: "2004 Enzo Ferrari rear"
 tags: ["Automotive culture", "Enzo Ferrari", "ferrari", "Ferrari history", "Ferrari myth", "Ferrari story"]
 legacySlug: "ferrari-the-story-of-a-man-a-machine-and-a-myth"
 draft: false

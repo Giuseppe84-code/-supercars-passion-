@@ -4,6 +4,11 @@ lede: "Import the Car You Want, Not Just the Car Available Near You."
 marque: "Guides"
 kicker: "BringATrailer"
 published: 2026-03-03
+image: "/img/import-sports-car-guide.jpg"
+imageAlt: "car carrier ship RoRo"
+imageCredit: "Farid mernissi"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Car carrier GRANDE"
 tags: ["BringATrailer", "buy car from another country", "car customs clearance", "car shipping guide", "compliance workshop", "Honda NSX import"]
 legacySlug: "import-sports-car-guide"
 draft: false

@@ -4,6 +4,11 @@ lede: "Aston Martin has flirted with the mid-engined supercar idea before, but t
 marque: "Brands"
 kicker: "Engineering & Technology"
 published: 2026-05-21
+image: "/img/aston-martin-valhalla-1064bhp-and-the-most-advanced-road-car-gaydon-has-ever-built.jpg"
+imageAlt: "Aston Martin Valhalla"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2025 Aston Martin Valhalla"
 tags: ["active aerodynamics", "Aston Martin", "Carbon Fibre", "Gaydon", "hybrid", "Mid-Engine"]
 legacySlug: "aston-martin-valhalla-1064bhp-and-the-most-advanced-road-car-gaydon-has-ever-built"
 draft: false

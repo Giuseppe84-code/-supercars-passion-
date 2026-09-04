@@ -4,6 +4,11 @@ lede: "How Horacio Pagani and Christian von Koenigsegg built global benchmarksâ€
 marque: "Design & Philosophy"
 kicker: "Legends"
 published: 2026-02-12
+image: "/img/pagani-and-koenigsegg-the-artisans-who-challenged-the-giants.jpg"
+imageAlt: "Pagani Huayra"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Pagani Huayra"
 tags: ["art", "automotive engineering", "books", "Boutique Manufacturers", "carbon fiber", "cars"]
 legacySlug: "pagani-and-koenigsegg-the-artisans-who-challenged-the-giants"
 draft: false

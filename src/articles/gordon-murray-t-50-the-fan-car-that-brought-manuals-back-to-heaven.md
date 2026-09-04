@@ -4,6 +4,11 @@ lede: "In an era where “hypercar” often means heavy, turbocharged, paddle-sh
 marque: "Design & Philosophy"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/gordon-murray-t-50-the-fan-car-that-brought-manuals-back-to-heaven.jpg"
+imageAlt: "Gordon Murray T.50"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2024 Gordon Murray T50"
 tags: ["active aerodynamics", "analog supercar", "Carbon Monocoque", "Cosworth", "Driver Focused", "f1"]
 legacySlug: "gordon-murray-t-50-the-fan-car-that-brought-manuals-back-to-heaven"
 draft: false

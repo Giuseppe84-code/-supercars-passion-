@@ -4,6 +4,11 @@ lede: "Introduction — The Democratic Supercar The Chevrolet Corvette has alway
 marque: "Other Brands"
 kicker: "Supercars"
 published: 2026-01-15
+image: "/img/chevrolet-corvette-americas-enduring-performance-icon.jpg"
+imageAlt: "Chevrolet Corvette C8"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2022 Chevrolet Corvette C8 Stingray Auto"
 tags: ["american supercars", "automotive history", "car culture", "chevrolet corvette", "corvette c8", "engineering evolution"]
 legacySlug: "chevrolet-corvette-americas-enduring-performance-icon"
 draft: false

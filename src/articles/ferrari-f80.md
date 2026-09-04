@@ -4,6 +4,11 @@ lede: "The Ferrari F80 is the most powerful, most technologically advanced, and 
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-03-01
+image: "/img/ferrari-f80.jpg"
+imageAlt: "Ferrari F80"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2025 Ferrari F80"
 tags: ["1200hp Car", "Car Enthusiast", "Exotic Car", "ferrari", "Ferrari 2024", "Ferrari F80"]
 legacySlug: "ferrari-f80"
 draft: false

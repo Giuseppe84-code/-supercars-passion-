@@ -4,6 +4,11 @@ lede: "What we actually know, what’s been reported, and what’s still specula
 marque: "Engineering & Technology"
 kicker: "Future of Performance"
 published: 2026-02-13
+image: "/img/is-the-future-electric-rumors-and-truths-about-the-nissan-r36-gt-r.jpg"
+imageAlt: "Nissan GT-R R35"
+imageCredit: "Dinkun Chen"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "NISSAN GT-R (R35) China"
 tags: ["art", "AWD Performance", "books", "Car Leaks", "cars", "Concept Cars"]
 legacySlug: "is-the-future-electric-rumors-and-truths-about-the-nissan-r36-gt-r"
 draft: false

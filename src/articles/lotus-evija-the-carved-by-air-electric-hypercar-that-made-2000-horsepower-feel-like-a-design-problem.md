@@ -4,6 +4,11 @@ lede: "The Lotus Evija is what happens when Lotus Cars takes its classic lightwe
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-02-12
+image: "/img/lotus-evija-the-carved-by-air-electric-hypercar-that-made-2000-horsepower-feel-like-a-design-problem.jpg"
+imageAlt: "Lotus Evija"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2023 Lotus Evija"
 tags: ["1500 kW", "2039 PS", "93 kWh", "automotive", "Carbon Fibre", "cars"]
 legacySlug: "lotus-evija-the-carved-by-air-electric-hypercar-that-made-2000-horsepower-feel-like-a-design-problem"
 draft: false

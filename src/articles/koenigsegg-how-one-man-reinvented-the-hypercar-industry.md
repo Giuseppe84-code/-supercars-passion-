@@ -4,6 +4,11 @@ lede: "Introduction — The Power of a Single Vision Most automotive revolutions
 marque: "Engineering & Technology"
 kicker: "Hypercars"
 published: 2026-01-14
+image: "/img/koenigsegg-how-one-man-reinvented-the-hypercar-industry.jpg"
+imageAlt: "Koenigsegg Agera"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Koenigsegg Agera RST"
 tags: ["advanced materials", "automotive innovatio", "christian von koenigsegg", "direct drive transmission", "engineering philosophy", "future of hypercars"]
 legacySlug: "koenigsegg-how-one-man-reinvented-the-hypercar-industry"
 draft: false

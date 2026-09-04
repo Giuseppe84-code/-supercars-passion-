@@ -4,6 +4,11 @@ lede: "Lightweight tech and corner speed vs big V8 torque and quarter-mile domin
 marque: "Design & Philosophy"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/jdm-vs-muscle-cars-two-worlds-one-addiction.jpg"
+imageAlt: "Ford Mustang Mach 1"
+imageCredit: "Matti Blume"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Ford Mustang, Classic Days 2019, Berlin"
 tags: ["American Muscle", "automotive", "Car Philosophy", "cars", "Cornering", "Drag Racing"]
 legacySlug: "jdm-vs-muscle-cars-two-worlds-one-addiction"
 draft: false

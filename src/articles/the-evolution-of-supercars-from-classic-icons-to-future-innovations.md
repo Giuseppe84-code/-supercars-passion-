@@ -4,6 +4,11 @@ lede: "Supercars have captivated enthusiasts for decades, blending artful design
 marque: "bugatti"
 kicker: "Design & Philosophy"
 published: 2026-01-25
+image: "/img/the-evolution-of-supercars-from-classic-icons-to-future-innovations.jpg"
+imageAlt: "Lamborghini Diablo"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2001 Lamborghini Diablo VT"
 tags: ["art", "automotive innovation", "books", "car culture", "future of hypercars", "Hypercars"]
 legacySlug: "the-evolution-of-supercars-from-classic-icons-to-future-innovations"
 draft: false

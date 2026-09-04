@@ -4,6 +4,11 @@ lede: "Aston Martin is more than a car brand. It is a symbol of British elegance
 marque: "Legends"
 kicker: "Aston Martin"
 published: 2026-03-01
+image: "/img/aston-martin-history.jpg"
+imageAlt: "Aston Martin DB5"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Aston Martin DB5 Volante"
 tags: ["Aston Martin", "Aston Martin DB5", "Aston Martin History", "Aston Martin Le Mans", "Aston Martin One-77", "Aston Martin Valhalla"]
 legacySlug: "aston-martin-history"
 draft: false

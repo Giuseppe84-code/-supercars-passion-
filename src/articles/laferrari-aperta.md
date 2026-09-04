@@ -4,6 +4,11 @@ lede: "Only 210 Were Made. Here's Why Every Single One Was Spoken For Before the
 marque: "Design & Philosophy"
 kicker: "Engineering & Technology"
 published: 2026-03-03
+image: "/img/laferrari-aperta.jpg"
+imageAlt: "LaFerrari Aperta"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Laferrari Aperta"
 tags: []
 legacySlug: "laferrari-aperta"
 draft: false

@@ -4,6 +4,11 @@ lede: "When Ferrari wheels out something from its Special Projects division, it 
 marque: "Brands"
 kicker: "12Cilindri"
 published: 2026-05-21
+image: "/img/ferrari-hc25-a-one-off-v8-roadster-that-bridges-two-eras.jpg"
+imageAlt: "Ferrari HC25"
+imageCredit: "TKOIII"
+imageLicense: "CC BY 4.0"
+imageNote: "Ferrari HC25"
 tags: ["12Cilindri", "coachbuilding", "F8 Spider", "F80", "ferrari", "Flavio Manzoni"]
 legacySlug: "ferrari-hc25-a-one-off-v8-roadster-that-bridges-two-eras"
 draft: false

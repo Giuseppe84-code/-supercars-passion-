@@ -4,6 +4,11 @@ lede: "The McLaren W1 is not just a new hypercar. It is the third chapter in the
 marque: "Legends"
 kicker: "1000hp Car"
 published: 2026-03-01
+image: "/img/mclaren-w1.jpg"
+imageAlt: "McLaren W1"
+imageCredit: "MrWalkr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2024 McLaren W1 SP25"
 tags: ["1000hp Car", "Best Hypercars 2024", "Car Enthusiast", "Exotic Cars", "F1 Inspired Car", "Ground Effect Car"]
 legacySlug: "mclaren-w1"
 draft: false

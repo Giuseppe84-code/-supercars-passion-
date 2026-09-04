@@ -4,6 +4,11 @@ lede: "Every so often a car comes along that seems engineered specifically to se
 marque: "Brands"
 kicker: "Design & Philosophy"
 published: 2026-05-22
+image: "/img/kimera-k39-an-f40-inspired-italian-hypercar-with-a-koenigsegg-heart.jpg"
+imageAlt: "Kimera K39"
+imageCredit: "MrWalkr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2026 Kimera K39 Pikes Peak SCD26"
 tags: ["Carbon Fibre", "ferrari f40", "Group B", "Jesko", "K39", "Kimera"]
 legacySlug: "kimera-k39-an-f40-inspired-italian-hypercar-with-a-koenigsegg-heart"
 draft: false

@@ -4,6 +4,11 @@ lede: "The Hidden Gems the Internet Forgot to Tell You About"
 marque: "Guides"
 kicker: "affordable sports cars"
 published: 2026-03-03
+image: "/img/underrated-sports-cars.jpg"
+imageAlt: "Mazda RX-7"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "1992 Mazda RX-7 RZ"
 tags: ["affordable sports cars", "Alfa Romeo 4C", "best unknown sports cars", "BMW 1M Coupe", "hidden gem sports cars", "Jaguar F-Type"]
 legacySlug: "underrated-sports-cars"
 draft: false

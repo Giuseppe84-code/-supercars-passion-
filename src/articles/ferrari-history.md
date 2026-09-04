@@ -4,6 +4,11 @@ lede: "There is no name in the world of cars more famous than Ferrari. The pranc
 marque: "Legends"
 kicker: "Enzo Ferrari"
 published: 2026-03-01
+image: "/img/ferrari-history.jpg"
+imageAlt: "Ferrari F40"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "1991 Ferrari F40"
 tags: ["Enzo Ferrari", "ferrari", "Ferrari 250 GTO", "ferrari f40", "Ferrari F80", "Ferrari Formula 1"]
 legacySlug: "ferrari-history"
 draft: false

@@ -4,6 +4,11 @@ lede: "A market-minded guide to 2020s cars that could become million-dollar clas
 marque: "Hypercars"
 kicker: "Market & Investment"
 published: 2026-02-12
+image: "/img/supercars-as-investments-which-models-to-buy-today.jpg"
+imageAlt: "Porsche 959"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Porsche"
 tags: ["Appreciation", "art", "Aston Martin Valkyrie", "Audi R8", "books", "Bugatti W16 Mistral"]
 legacySlug: "supercars-as-investments-which-models-to-buy-today"
 draft: false

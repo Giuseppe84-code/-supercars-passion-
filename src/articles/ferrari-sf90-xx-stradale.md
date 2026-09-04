@@ -4,6 +4,11 @@ lede: "The Ferrari SF90 XX Stradale is not just a car — it is a statement. A d
 marque: "Supercars"
 kicker: "1000hp Car"
 published: 2026-03-01
+image: "/img/ferrari-sf90-xx-stradale.jpg"
+imageAlt: "Ferrari SF90 XX Stradale"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2024 Ferrari SF90 XX Spider"
 tags: ["1000hp Car", "AWD Hypercar", "Car Review", "Exotic Cars", "ferrari", "Ferrari 2024"]
 legacySlug: "ferrari-sf90-xx-stradale"
 draft: false

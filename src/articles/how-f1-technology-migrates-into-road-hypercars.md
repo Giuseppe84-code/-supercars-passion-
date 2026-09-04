@@ -4,6 +4,11 @@ lede: "Introduction — From Race Track to Road Formula 1 is not just a sport. I
 marque: "Engineering & Technology"
 kicker: "ferrari"
 published: 2026-01-14
+image: "/img/how-f1-technology-migrates-into-road-hypercars.jpg"
+imageAlt: "Mercedes-Benz F1 W11"
+imageCredit: "David Merrett from Daventry, England"
+imageLicense: "CC BY 2.0"
+imageNote: "IMGP0032"
 tags: ["active aerodynamics", "automotive innovation", "carbon fiber monocoque", "f1 technology", "formula 1", "hybrid powertrains"]
 legacySlug: "how-f1-technology-migrates-into-road-hypercars"
 draft: false

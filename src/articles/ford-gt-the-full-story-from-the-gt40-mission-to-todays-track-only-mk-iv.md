@@ -4,6 +4,11 @@ lede: "The Ford GT name is rare because it isn’t a “model line” in the nor
 marque: "Legends"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/ford-gt-the-full-story-from-the-gt40-mission-to-todays-track-only-mk-iv.jpg"
+imageAlt: "Ford GT40"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Ford GT40"
 tags: ["active aerodynamics", "carbon fiber", "cars", "classic-cars", "EcoBoost V6", "Endurance Racing"]
 legacySlug: "ford-gt-the-full-story-from-the-gt40-mission-to-todays-track-only-mk-iv"
 draft: false

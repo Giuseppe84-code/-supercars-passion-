@@ -4,6 +4,11 @@ lede: "Introduction — The Loudest Hypercar Ever Made Has No Engine Sound For m
 marque: "Future of Performance"
 kicker: "Hypercars"
 published: 2026-01-15
+image: "/img/pininfarina-battista-when-silence-became-the-new-power.jpg"
+imageAlt: "Pininfarina Battista"
+imageCredit: "Matti Blume"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Pininfarina Battista, GIMS 2019, Le Grand-Saconnex"
 tags: ["automobili pininfarina", "automotive innovation", "carbon fiber monocoque", "electric hypercar", "electric performance", "ev hypercar"]
 legacySlug: "pininfarina-battista-when-silence-became-the-new-power"
 draft: false

@@ -4,6 +4,11 @@ lede: "Teutonic efficiency vs Japanese brutal tech — who wins on lap time, and
 marque: "Legends"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo.jpg"
+imageAlt: "Nissan GT-R Nismo"
+imageCredit: "MrWalkr"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2022 Nissan GT-R Nismo SCD 24 Low"
 tags: ["AWD Performance", "cars", "Daily Supercar", "Driving Emotion", "German Engineering", "GT-R History"]
 legacySlug: "the-battle-of-giants-nissan-gt-r-vs-porsche-911-turbo"
 draft: false

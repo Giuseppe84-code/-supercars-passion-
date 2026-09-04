@@ -4,6 +4,11 @@ lede: "Lamborghini, Ferrari, Bugatti. These Aren't Dream Cars. They're On Active
 marque: "bugatti"
 kicker: "Events & Culture"
 published: 2026-03-03
+image: "/img/police-supercars.jpg"
+imageAlt: "Police supercar"
+imageCredit: "Wolfgang Moroder"
+imageLicense: "CC BY-SA 3.0"
+imageNote: "Lamborghini Huracàn Polizia di Stato a Brescia"
 tags: ["Bugatti police car", "Dubai police Bugatti Veyron", "Dubai police fleet", "fastest police cars world", "Ferrari police car", "Italy police Lamborghini"]
 legacySlug: "police-supercars"
 draft: false

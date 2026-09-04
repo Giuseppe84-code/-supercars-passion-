@@ -4,6 +4,11 @@ lede: "Costs, homologation rules, Japanese auction sites, and the red flags that
 marque: "Guides"
 kicker: "Other Brands"
 published: 2026-02-12
+image: "/img/buying-guide-how-to-import-an-original-skyline-from-japan-without-getting-burned.jpg"
+imageAlt: "Nissan Skyline GT-R R32"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Nissan Skyline GT-R"
 tags: ["ASI CRS", "Auction Sheet", "Avoid Scams", "cars", "Collector Cars", "Container Shipping"]
 legacySlug: "buying-guide-how-to-import-an-original-skyline-from-japan-without-getting-burned"
 draft: false

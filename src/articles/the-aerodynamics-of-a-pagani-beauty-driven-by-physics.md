@@ -4,6 +4,11 @@ lede: "Introduction — When Art Obeys the Laws of Nature Pagani hypercars are o
 marque: "Design & Philosophy"
 kicker: "Hypercars"
 published: 2026-01-14
+image: "/img/the-aerodynamics-of-a-pagani-beauty-driven-by-physics.jpg"
+imageAlt: "Pagani Zonda"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "2009 Pagani Zonda PS"
 tags: ["active aerodynamics", "airflow management", "automotive aerodynamics", "automotive design", "beauty in engineering", "cooling airflow"]
 legacySlug: "the-aerodynamics-of-a-pagani-beauty-driven-by-physics"
 draft: false

@@ -4,6 +4,11 @@ lede: "2026 is shaping up to be one of the most exciting years in hypercar histo
 marque: "Future of Performance"
 kicker: "Hypercars"
 published: 2026-03-01
+image: "/img/new-hypercars-2026.jpg"
+imageAlt: "Koenigsegg Jesko"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Koenigsegg Jesko"
 tags: ["Aston Martin Valhalla", "Best Cars 2026", "Bugatti Tourbillon", "Car Enthusiast", "Exotic Cars", "Ferrari 296 Speciale"]
 legacySlug: "new-hypercars-2026"
 draft: false

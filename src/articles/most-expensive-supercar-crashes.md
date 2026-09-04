@@ -4,6 +4,11 @@ lede: "$50 Million in Twisted Metal. The Accidents That Made Headlines and the H
 marque: "bugatti"
 kicker: "Events & Culture"
 published: 2026-03-03
+image: "/img/most-expensive-supercar-crashes.jpg"
+imageAlt: "Lamborghini Huracán"
+imageCredit: "Alexander-93"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Lamborghini Huracán Tecnica"
 tags: ["Bugatti Veyron lake crash", "carbon ceramic brakes danger", "exotic car crashes 2026", "famous supercar accidents", "Ferrari Enzo Malibu crash", "Koenigsegg Agera R crash"]
 legacySlug: "most-expensive-supercar-crashes"
 draft: false

@@ -4,6 +4,11 @@ lede: "For two decades, the soundtrack of an \"entry-level\" Lamborghini was the
 marque: "Brands"
 kicker: "Design & Philosophy"
 published: 2026-05-22
+image: "/img/lamborghini-temerario-the-10000rpm-hybrid-v8-that-replaced-the-huracan.jpg"
+imageAlt: "Lamborghini Temerario"
+imageCredit: "Yu Chu Chin"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Lamborghini Temerario at the 2026 Adelaide Motorsport Festival"
 tags: ["10000 rpm", "electrification", "Huracán", "hybrid", "lamborghini", "Plug-in Hybrid"]
 legacySlug: "lamborghini-temerario-the-10000rpm-hybrid-v8-that-replaced-the-huracan"
 draft: false

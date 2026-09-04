@@ -4,6 +4,11 @@ lede: "The Enzo–Ferruccio feud—and how their V12 engines evolved into two to
 marque: "Design & Philosophy"
 kicker: "Legends"
 published: 2026-02-12
+image: "/img/ferrari-vs-lamborghini-the-origin-of-a-myth.jpg"
+imageAlt: "Lamborghini Miura"
+imageCredit: "Calreyn88"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "1970 Lamborghini Miura P400 S"
 tags: ["125 S", "350 GT", "375 Plus", "automotive", "Bizzarrini", "cars"]
 legacySlug: "ferrari-vs-lamborghini-the-origin-of-a-myth"
 draft: false

@@ -4,6 +4,11 @@ lede: "The definitive comparison between two of the greatest sports cars on the 
 marque: "porsche"
 kicker: "Reviews & Comparisons"
 published: 2026-03-02
+image: "/img/porsche-911-vs-bmw-m4.jpg"
+imageAlt: "BMW M4"
+imageCredit: "Matti Blume"
+imageLicense: "CC BY-SA 4.0"
+imageNote: "Tuning World Bodensee 2018, Friedrichshafen"
 tags: ["911 vs M4", "best sports cars 2026", "BMW M4", "BMW M4 Competition", "German sports cars", "performance cars"]
 legacySlug: "porsche-911-vs-bmw-m4"
 draft: false
