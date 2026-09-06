@@ -90,7 +90,7 @@ Even if you never see these cars in the wild, they reinforce the idea that the E
 
 ## Quick technical snapshot
 
-Here’s the clean “scroll-stopper” spec block for your post:
+The numbers, in one place:
 
 * **Production cap:** 130 units
 * **Power:** 1,500 kW / 2,039 PS (4 × 375 kW)
