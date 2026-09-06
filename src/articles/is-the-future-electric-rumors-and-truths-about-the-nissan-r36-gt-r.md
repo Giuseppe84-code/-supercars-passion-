@@ -104,7 +104,7 @@ If Nissan goes hybrid, the best-case “R36 soul” recipe looks like:
 
 ## 6) The best way to read R36 “leaks” without getting fooled
 
-A quick filter your readers can use:
+A quick filter you can use:
 
 * If it references **official Nissan concept material** (Hyper Force), it’s directionally useful.
 * If it references **named executives + major outlets**, it’s credible reporting (still not a guarantee).
