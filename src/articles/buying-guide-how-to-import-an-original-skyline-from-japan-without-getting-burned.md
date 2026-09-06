@@ -88,6 +88,13 @@ Three checks, in order:
 
 **3. Treat V-Spec, N1 and Nür claims as unproven until documented.** These carry serious premiums and the badges are the easiest part to fit. Ask for the chassis number and the build documentation, and have your agent verify it against the model registry rather than the seller's description.
 
+You can check all of this before you ever contact a seller. Japanese export
+marketplaces — Goo-net Exchange among them — publish a **model code** field
+(型式) on every listing. Open a handful of cars advertised as GT-Rs and read
+it: a genuine one shows the code above. It costs two minutes, it uses the
+same listings your seller is using, and it is the cheapest due diligence in
+the entire process.
+
 An agent who will not photograph the chassis plate is telling you something. Believe them.
 
 ---
